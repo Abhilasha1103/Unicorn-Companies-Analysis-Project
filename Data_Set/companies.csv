@@ -1,0 +1,1075 @@
+company_id,company,city,country,continent,Valuation
+189,Otto Bock HealthCare,Duderstadt,Germany,Europe,$180B
+848,Matrixport,,Singapore,Asia,$100B
+556,Cloudinary,Santa Clara,United States,North America,$100B
+999,PLACE,Bellingham,United States,North America,$95B
+396,candy.com,New York,United States,North America,$46B
+931,HAYDON,Shanghai,China,Asia,$40B
+364,eDaili,Shanghai,China,Asia,$40B
+732,CoinTracker,San Francisco,United States,North America,$39B
+906,EcoFlow,Shenzhen,China,Asia,$38B
+72,DJI Innovations,Shenzhen,China,Asia,$38B
+983,Numbrs,Zurich,Switzerland,Europe,$33B
+898,Darwinbox,Hyderabad,India,Asia,$32B
+844,MobileCoin,San Francisco,United States,North America,$32B
+894,Clara,Mexico City,Mexico,North America,$27B
+813,CoinDCX,Maharashtra,India,Asia,$25B
+743,Manner,Shanghai,China,Asia,$22B
+226,Clubhouse,San Francisco,United States,North America,$20B
+963,Masterworks,New York,United States,North America,$20B
+764,AgentSync,Denver,United States,North America,$18B
+839,Mamaearth,Gurgaon,India,Asia,$17B
+1033,Splashtop,San Jose,United States,North America,$15B
+725,Athletic Greens,New York,United States,North America,$15B
+549,Black Sesame Technologies,Shanghai,China,Asia,$15B
+667,Apus Group,Beijing,China,Asia,$15B
+755,Marshmallow,London,United Kingdom,Europe,$14B
+782,Phantom,San Francisco,United States,North America,$13B
+175,Kraken,San Francisco,United States,North America,$13B
+398,CoinList,San Francisco,United States,North America,$13B
+814,Daily Harvest,New York,United States,North America,$13B
+436,Afiniti,Hamilton,Bermuda,North America,$12B
+1046,Tractable,London,United Kingdom,Europe,$12B
+565,Hive,San Francisco,United States,North America,$12B
+781,Offchain Labs,Princeton,United States,North America,$12B
+997,Pet Circle,Alexandria,Australia,Oceania,$12B
+194,Relativity,Chicago,United States,North America,$12B
+249,Worldcoin,San Francisco,United States,North America,$12B
+434,Star Charge,Changzhou,China,Asia,$12B
+1035,Stytch,San Francisco,United States,North America,$12B
+969,Minio,Palo Alto,United States,North America,$12B
+1018,Sentry,San Francisco,United States,North America,$11B
+355,1047 Games,Zephyr Cove,United States,North America,$11B
+934,Hotmart,Amsterdam,Netherlands,Europe,$11B
+1054,Vise,New York,United States,North America,$11B
+901,Drata,San Diego,United States,North America,$11B
+173,Turing,Palo Alto,United States,North America,$11B
+738,iTrustCapital,Long Beach,United States,North America,$11B
+422,Temporal,Bellevue,United States,North America,$10B
+830,Rightway,New York,United States,North America,$10B
+1004,Printful,Charlotte,United States,North America,$10B
+951,Lamabang,Shenzhen,China,Asia,$10B
+734,Domestika,Berkeley,United States,North America,$10B
+1063,Wrapbook,New York,United States,North America,$10B
+623,JimuBox,Beijing,China,Asia,$10B
+846,Instabase,San Francisco,United States,North America,$10B
+823,Ivalua,Redwood City,United States,North America,$10B
+944,Interos,Arlington,United States,North America,$10B
+1030,Snorkel AI,Palo Alto,United States,North America,$10B
+824,Juanpi,Wuhan,China,Asia,$10B
+930,Hasura,Bengaluru,India,Asia,$10B
+370,Jusfoun Big Data,Beijing,China,Asia,$10B
+618,Hosjoy,Nanjing,China,Asia,$10B
+456,Verkada,San Mateo,United States,North America,$9B
+893,Cider,,Hong Kong,Asia,$9B
+812,Chief,New York,United States,North America,$9B
+1001,Playco,Tokyo,Japan,Asia,$9B
+703,Panther Labs,San Francisco,United States,North America,$9B
+884,Cadence,New York,United States,North America,$9B
+404,ID.me,McLean,United States,North America,$9B
+952,LayerZero Labs,New York,United States,North America,$9B
+625,Justworks,New York,United States,North America,$9B
+971,Moka,Beijing,China,Asia,$9B
+796,Luoji Siwei,Beijing,China,Asia,$8B
+909,Esusu,New York,United States,North America,$8B
+587,Preferred Networks,Tokyo,Japan,Asia,$8B
+273,Oura,Oulu,Finland,Europe,$8B
+771,Gem,San Francisco,United States,North America,$8B
+758,Tackle.io,Boise,United States,North America,$8B
+652,Xiaoe Tech,Shenzhen,China,Asia,$8B
+8,JUUL Labs,San Francisco,United States,North America,$8B
+760,GalaxySpace,Beijing,China,Asia,$8B
+394,Athelas,Mountain View,United States,North America,$8B
+393,Ascend Money,Bangkok,Thailand,Asia,$8B
+870,Axiom Space,Houston,United States,North America,$8B
+804,Rebellion Defense,Washington DC,United States,North America,$8B
+1041,Tezign,Shanghai,China,Asia,$7B
+443,Cresta,San Francisco,United States,North America,$7B
+978,News Break,Mountain View,United States,North America,$7B
+612,Einride,Stockholm,Sweden,Europe,$7B
+714,Yidian Zixun,Beijing,China,Asia,$7B
+925,Glia,New York,United States,North America,$7B
+421,Strava,San Francisco,United States,North America,$7B
+449,Mercury,San Francisco,United States,North America,$7B
+1022,Shippo,San Francisco,United States,North America,$7B
+240,Dadi Cinema,Shenzhen,China,Asia,$7B
+644,UISEE Technology,Beijing,China,Asia,$7B
+718,Alloy,New York,United States,North America,$7B
+920,Freshbooks,Toronto,Canada,North America,$7B
+1048,TrialSpark,New York,United States,North America,$7B
+1024,Sift,San Francisco,United States,North America,$7B
+929,Haomao.AI,Beijing,China,Asia,$7B
+751,Flipdish,Dublin,Ireland,Europe,$7B
+1012,Revolution Precrafted,Manila,Philippines,Asia,$7B
+863,Anyscale,Berkeley,United States,North America,$6B
+662,Qualia,San Francisco,United States,North America,$6B
+1027,SmartAsset,New York,United States,North America,$6B
+317,Gorillas,Berlin,Germany,Europe,$6B
+783,Pilot.com,San Francisco,United States,North America,$6B
+592,StarkWare,Netanya,Israel,Asia,$6B
+1023,Sidecar Health,El Segundo,United States,North America,$6B
+1051,Vagaro,Dublin,United States,North America,$6B
+633,Phenom People,Ambler,United States,North America,$6B
+635,Qingting FM,Shanghai,China,Asia,$6B
+750,CaptivateIQ,San Francisco,United States,North America,$6B
+697,Figment,Toronto,Canada,North America,$6B
+886,Cameo,Chicago,United States,North America,$6B
+826,LEAD School,Andheri,India,Asia,$6B
+1000,Placer.ai,Los Altos,United States,North America,$6B
+740,LinkTree,Melbourne,Australia,Oceania,$6B
+798,Modern Health,San Francisco,United States,North America,$6B
+1008,Razor,Berlin,Germany,Europe,$6B
+761,Insider,Istanbul,Turkey,Europe,$6B
+701,Kong,San Francisco,United States,North America,$6B
+825,Karat,Seattle,United States,North America,$6B
+344,Lucid,South Jordan,United States,North America,$6B
+695,Envoy,San Francisco,United States,North America,$6B
+876,BitFury,Amsterdam,Netherlands,Europe,$6B
+643,TUNGEE,Guangzhou,China,Asia,$6B
+509,FullStory,Atlanta,United States,North America,$6B
+979,Newsela,New York,United States,North America,$5B
+1031,Solo.io,Cambridge,United States,North America,$5B
+817,Firefly Aerospace,Cedar Park,United States,North America,$5B
+943,Intellifusion,Shenzhen,China,Asia,$5B
+975,Mux,San Francisco,United States,North America,$5B
+647,Venafi,Salt Lake City,United States,North America,$5B
+426,Veriff,Tallinn,Estonia,Europe,$5B
+705,Pristyn Care,Gurugram,India,Asia,$5B
+724,RIDI,Seoul,South Korea,Asia,$5B
+464,Optimism,San Francisco,United States,North America,$5B
+942,Injective Protocol,New York,United States,North America,$5B
+354,Wildlife Studios,Sao Paulo,Brazil,South America,$5B
+688,Away,New York,United States,North America,$5B
+1045,Timescale,New York,United States,North America,$5B
+391,Airbyte,San Francisco,United States,North America,$5B
+891,CHEQ,New York,United States,North America,$5B
+1066,YH Global,Shenzhen,China,Asia,$5B
+579,Modern Treasury,San Francisco,United States,North America,$5B
+686,SonderMind,Denver,United States,North America,$5B
+822,GlobalBees,New Delhi,India,Asia,$5B
+882,Bringg,Tel Aviv,Israel,Asia,$5B
+816,eSentire,Waterloo,Canada,North America,$5B
+369,Iluvatar CoreX,Shanghai,China,Asia,$5B
+340,Inxeption,San Francisco,United States,North America,$5B
+1058,VTS,New York,United States,North America,$5B
+129,Howden Group Holdings,London,United Kingdom,Europe,$5B
+862,Amperity,Seattle,United States,North America,$5B
+363,Changingedu,Shanghai,China,Asia,$5B
+603,56PINGTAI,Shanghai,China,Asia,$5B
+645,Valgen Medtech,Hangzhou,China,Asia,$5B
+769,DailyPay,New York,United States,North America,$5B
+788,SeekOut,Bellevue,United States,North America,$5B
+452,SmartHR,Tokyo,Japan,Asia,$5B
+420,StoreDot,Herzliya,Israel,Asia,$5B
+996,Pentera,Petah Tikva,Israel,Asia,$5B
+763,Ada Support,Toronto,Canada,North America,$5B
+803,Happy Money,Tustin,United States,North America,$5B
+765,Alation,Redwood City,United States,North America,$5B
+989,Orca Bio,Menlo Park,United States,North America,$5B
+409,MOLOCO,Redwood City,United States,North America,$5B
+580,MURAL,San Francisco,United States,North America,$4B
+513,Accelerant,Colchester,United Kingdom,Europe,$4B
+809,apna,Bengaluru,India,Asia,$4B
+791,UpGrad,Mumbai,India,Asia,$4B
+998,PicsArt,San Francisco,United States,North America,$4B
+455,Unite Us,New York,United States,North America,$4B
+477,Harness,San Francisco,United States,North America,$4B
+896,CommerceIQ,Palo Alto,United States,North America,$4B
+797,IRL,San Francisco,United States,North America,$4B
+361,CFGI,Boston,United States,North America,$4B
+250,Hive Box,Shenzhen,China,Asia,$4B
+229,MEGVII,Beijing,China,Asia,$4B
+540,4Paradigm,Beijing,China,Asia,$4B
+73,Netskope,Santa Clara,United States,North America,$4B
+852,Leap Motor,Hangzhou,China,Asia,$4B
+78,Hopin,London,United Kingdom,Europe,$4B
+79,Caris Life Sciences,Irving,United States,North America,$4B
+632,OVH,Roubaix,France,Europe,$4B
+314,Flink Food,Berlin,Germany,Europe,$4B
+82,Fireblocks,New York,United States,North America,$4B
+164,SambaNova Systems,Palo Alto,United States,North America,$4B
+85,Meicai,Beijing,China,Asia,$4B
+212,Relativity Space,Inglewood,United States,North America,$4B
+65,Snyk,Boston,United States,North America,$4B
+258,BYTON,Nanjing,China,Asia,$4B
+63,Pony.ai,Fremont,United States,North America,$4B
+58,reddit,San Francisco,United States,North America,$4B
+31,Faire,San Francisco,United States,North America,$4B
+248,OakNorth Bank,London,United Kingdom,Europe,$4B
+32,Airtable,San Francisco,United States,North America,$4B
+252,MessageBird,Amsterdam,Netherlands,Europe,$4B
+33,Brex,San Francisco,United States,North America,$4B
+287,Cars24,Gurgaon,India,Asia,$4B
+251,Trax,,Singapore,Asia,$4B
+243,OpenAI,San Francisco,United States,North America,$4B
+40,Bolt,Tallinn,Estonia,Europe,$4B
+44,Bolt,San Francisco,United States,North America,$4B
+45,Celonis,Munich,Germany,Europe,$4B
+211,Intarcia Therapeutics,Boston,United States,North America,$4B
+50,ServiceTitan,Glendale,United States,North America,$4B
+53,Digital Currency Group,New York,United States,North America,$4B
+285,Youxia Motors,Shanghai,China,Asia,$4B
+217,Dataminr,New York,United States,North America,$4B
+134,Monzo,London,United Kingdom,Europe,$4B
+365,ENOVATE,Shanghai,China,Asia,$4B
+91,Carta,San Francisco,United States,North America,$4B
+185,Indigo Ag,Boston,United States,North America,$4B
+121,Lianjia,Beijing,China,Asia,$4B
+335,FlixBus,Munich,Germany,Europe,$4B
+1014,SaltPay,London,United Kingdom,Europe,$4B
+191,WeRide,Guangzhou,China,Asia,$4B
+334,Delhivery,Gurgaon,India,Asia,$4B
+118,Vice Media,Brooklyn,United States,North America,$4B
+115,DataRobot,Boston,United States,North America,$4B
+113,Back Market,Paris,France,Europe,$4B
+147,Chipone,Beijing,China,Asia,$4B
+136,VIPKid,Beijing,China,Asia,$4B
+130,Meesho,Bengaluru,India,Asia,$4B
+321,Udaan,Bengaluru,India,Asia,$4B
+327,BlockFi,Jersey City,United States,North America,$4B
+641,SumUp,London,United Kingdom,Europe,$4B
+352,Traveloka,Jakarta,Indonesia,Asia,$4B
+972,Momenta,Beijing,China,Asia,$4B
+201,ShareChat,Bengaluru,India,Asia,$4B
+168,Abogen,Suzhou,China,Asia,$4B
+104,WeDoctor,Hangzhou,China,Asia,$4B
+171,Radiology Partners,El Segundo,United States,North America,$4B
+350,SouChe Holdings,Hangzhou,China,Asia,$4B
+101,Ro,New York,United States,North America,$4B
+239,Zapier,Sunnyvale,United States,North America,$4B
+1065,XForcePlus,Shanghai,China,Asia,$4B
+938,iCarbonX,Shenzhen,China,Asia,$4B
+828,People.ai,San Francisco,United States,North America,$3B
+941,Infobip,Vodnjan,Croatia,Europe,$3B
+988,Orbbec Technology,Shenzhen,China,Asia,$3B
+484,Wave,Dakar,Senegal,Africa,$3B
+864,Aptos,Palo Alto,United States,North America,$3B
+383,Pantheon Systems,San Francisco,United States,North America,$3B
+1060,Weights & Biases,San Francisco,United States,North America,$3B
+595,Trendy Group International,Kowloon,Hong Kong,Asia,$3B
+840,Radius Payment Solutions,Crewe,United Kingdom,Europe,$3B
+290,Nextiva,Scottsdale,United States,North America,$3B
+742,Lukka,New York,United States,North America,$3B
+964,Maven Clinic,New York,United States,North America,$3B
+712,Tripledot,London,United Kingdom,Europe,$3B
+837,Zego,London,United Kingdom,Europe,$3B
+583,Netlify,San Francisco,United States,North America,$3B
+411,Next Silicon,Tel Aviv,Israel,Asia,$3B
+430,Loom,San Francisco,United States,North America,$3B
+875,Betterfly,Santiago,Chile,South America,$3B
+810,Beyond Identity,New York,United States,North America,$3B
+805,STORD,Atlanta,United States,North America,$3B
+953,Lessen,Scottsdale,United States,North America,$3B
+606,Axtria,Berkeley Heights,United States,North America,$3B
+679,YunQuNa,Shanghai,China,Asia,$3B
+907,Electric,New York,United States,North America,$3B
+880,bolttech,,Singapore,Asia,$3B
+834,Sunbit,Los Angeles,United States,North America,$3B
+542,Aiven,Helsinki,Finland,Europe,$3B
+1043,Thirty Madison,New York,United States,North America,$3B
+410,Mu Sigma,Northbrook,United States,North America,$3B
+637,Shukun Technology,Beijing,China,Asia,$3B
+616,Flipboard,Palo Alto,United States,North America,$3B
+611,dMed Biopharmaceutical,Shanghai,China,Asia,$3B
+1064,Xendit,Jakarta,Indonesia,Asia,$3B
+1032,SoundHound,Santa Clara,United States,North America,$3B
+737,Island,Dallas,United States,North America,$3B
+374,Tubatu.com,Shenzhen,China,Asia,$3B
+172,Yello Mobile,Seoul,South Korea,Asia,$3B
+414,Pacaso,Cincinnati,United States,North America,$3B
+845,Density,San Francisco,United States,North America,$3B
+1055,Visier,Vancouver,Canada,North America,$3B
+416,Persona,San Francisco,United States,North America,$3B
+682,Coocaa,Shenzhen,China,Asia,$3B
+967,Mensa Brands,Bengaluru,India,Asia,$3B
+551,Calm,San Francisco,United States,North America,$3B
+491,Uptake,Chicago,United States,North America,$3B
+446,HomeLight,San Francisco,United States,North America,$3B
+982,Noname Security,Palo Alto,United States,North America,$3B
+850,Sendbird,San Mateo,United States,North America,$3B
+928,Hailo,Tel Aviv,Israel,Asia,$3B
+380,InMobi,Bengaluru,India,Asia,$3B
+451,SafetyCulture,Sydney,Australia,Oceania,$3B
+987,OpenWeb,New York,United States,North America,$3B
+842,Rubicon,Atlanta,United States,North America,$3B
+620,HuJiang,Shanghai,China,Asia,$3B
+356,Baiwang,Beijing,China,Asia,$3B
+872,BeiBei,Hangzhou,China,Asia,$3B
+417,SmartRecruiters,San Francisco,United States,North America,$3B
+427,Whatnot,Marina del Rey,United States,North America,$3B
+255,A24 Films,New York,United States,North America,$3B
+397,Cognite,Lysaker,Norway,Europe,$3B
+857,Aircall,New York,United States,North America,$3B
+588,Quora,Mountain View,United States,North America,$3B
+1005,Quantum Metric,Colorado Springs,United States,North America,$3B
+609,CredAvenue,Chennai,India,Asia,$3B
+619,Huisuanzhang,Beijing,China,Asia,$3B
+681,Aleo,San Francisco,United States,North America,$3B
+489,Odoo,Louvain-la-Neuve,Belgium,Europe,$3B
+626,Keenon Robotics,Shanghai,China,Asia,$3B
+649,WeBull,Changsha,China,Asia,$3B
+234,PointClickCare,Mississauga,Canada,North America,$3B
+770,FloQast,Los Angeles,United States,North America,$3B
+614,Everly Health,Austin,United States,North America,$3B
+482,Spotter,Los Angeles,United States,North America,$3B
+968,Mia.com,Beijing,China,Asia,$3B
+899,Dental Monitoring,Paris,France,Europe,$3B
+386,BrewDog,Aberdeen,United Kingdom,Europe,$3B
+665,Kujiale,Hangzhou,China,Asia,$3B
+1039,TensTorrent,Toronto,Canada,North America,$3B
+800,CloudBees,San Jose,United States,North America,$3B
+457,Wayflyer,Dublin,Ireland,Europe,$3B
+676,TaxBit,Draper,United States,North America,$3B
+1050,Unico,Sao Paulo,Brazil,South America,$3B
+694,Deliverect,Ghent,Belgium,Europe,$3B
+481,Reltio,Redwood City,United States,North America,$3B
+878,Bluecore,New York,United States,North America,$3B
+995,Payhawk,London,United Kingdom,Europe,$3B
+1034,Standard,San Francisco,United States,North America,$3B
+855,Agile Robots,Munich,Germany,Europe,$3B
+345,Outschool,San Francisco,United States,North America,$3B
+691,Coda,Mountain View,United States,North America,$3B
+860,Amagi,Bengaluru,India,Asia,$3B
+511,Opentrons,New York,United States,North America,$3B
+704,Papa,Miami,United States,North America,$3B
+881,Boom Supersonic,Englewood,United States,North America,$3B
+747,Intercom,San Francisco,United States,North America,$3B
+861,Amount,Chicago,United States,North America,$3B
+407,Lusha,New York,United States,North America,$3B
+858,Ajaib,Jakarta,Indonesia,Asia,$3B
+749,BigID,New York,United States,North America,$3B
+841,Rivigo,Gurgaon,India,Asia,$3B
+282,Sourcegraph,San Francisco,United States,North America,$3B
+1026,Slice,Bengaluru,India,Asia,$3B
+630,MobiKwik,Gurugram,India,Asia,$3B
+621,Hyperchain,Hangzhou,China,Asia,$3B
+847,Jiuxian,Beijing,China,Asia,$3B
+223,BrowserStack,Dublin,Ireland,Europe,$3B
+1009,Red Ventures,Fort Mill,United States,North America,$3B
+563,Formlabs,Somerville,United States,North America,$3B
+476,H2O.ai,Mountain View,United States,North America,$3B
+970,Mobvoi,Beijing,China,Asia,$3B
+990,Orchard,New York,United States,North America,$3B
+728,Tongdun Technology,Hangzhou,China,Asia,$3B
+415,Paradox,Scottsdale,United States,North America,$3B
+956,LinkDoc Technology,Beijing,China,Asia,$3B
+418,Snapdocs,San Francisco,United States,North America,$3B
+892,Chronosphere,New York,United States,North America,$2B
+991,Owkin,New York,United States,North America,$2B
+1028,SMS Assist,Chicago,United States,North America,$2B
+454,Truepill,Hayward,United States,North America,$2B
+400,Culture Amp,Richmond,Australia,Oceania,$2B
+1042,The Zebra,Austin,United States,North America,$2B
+753,Incode Technologies,San Francisco,United States,North America,$2B
+911,Expel,Herndon,United States,North America,$2B
+819,G2,Chicago,United States,North America,$2B
+507,Reify Health,Boston,United States,North America,$2B
+910,Evidation,San Mateo,United States,North America,$2B
+756,Mythical Games,Sherman Oaks,United States,North America,$2B
+480,Productboard,San Francisco,United States,North America,$2B
+405,impact.com,Santa Barbara,United States,North America,$2B
+683,Gymshark,Solihull,United Kingdom,Europe,$2B
+959,Lydia,Paris,France,Europe,$2B
+954,LetsGetChecked,Dublin,Ireland,Europe,$2B
+203,VAST Data,New York,United States,North America,$2B
+170,HyalRoute,,Singapore,Asia,$2B
+698,Firebolt,Tel Aviv,Israel,Asia,$2B
+790,Tealium,San Diego,United States,North America,$2B
+962,Mammoth Biosciences,Brisbane,United States,North America,$2B
+865,Aqua Security,Ramat Gan,Israel,Asia,$2B
+461,Glossier,New York,United States,North America,$2B
+670,DT Dream,Hangzhou,China,Asia,$2B
+529,Jeeves,Orlando,United States,North America,$2B
+634,Pipa Coding,Beijing,China,Asia,$2B
+897,Contrast Security,Los Altos,United States,North America,$2B
+924,Gelato,Oslo,Norway,Europe,$2B
+768,Copado,Chicago,United States,North America,$2B
+707,Salt Security,Palo Alto,United States,North America,$2B
+673,K Health,New York,United States,North America,$2B
+1049,TrueLayer,London,United Kingdom,Europe,$2B
+1017,Scandit,Zurich,Switzerland,Europe,$2B
+856,Aibee,Beijing,China,Asia,$2B
+1007,RapidAPI,San Francisco,United States,North America,$2B
+462,Hibob,Tel Aviv,Israel,Asia,$2B
+832,Sisense,New York,United States,North America,$2B
+265,Infra.Market,Thane,India,Asia,$2B
+485,ZenBusiness,Austin,United States,North America,$2B
+490,Skydance Media,Santa Monica,United States,North America,$2B
+723,Motorway,London,United Kingdom,Europe,$2B
+913,Feedzai,San Mateo,United States,North America,$2B
+534,ReCharge,Los Angeles,United States,North America,$2B
+494,Pattern,Lehi,United States,North America,$2B
+849,Mixpanel,San Francisco,United States,North America,$2B
+908,Emerging Markets Property Group,Dubai,United Arab Emirates,Asia,$2B
+264,Immutable,Sydney,Australia,Oceania,$2B
+550,Bunq,Amsterdam,Netherlands,Europe,$2B
+778,MindTickle,San Francisco,United States,North America,$2B
+624,Juma Peisong,Chengdu,China,Asia,$2B
+958,Lookout,San Francisco,United States,North America,$2B
+440,Capitolis,New York,United States,North America,$2B
+921,FXiaoKe,Beijing,China,Asia,$2B
+926,GO1,Brisbane,Australia,Oceania,$2B
+584,OCSiAl,Leudelange,Luxembourg,Europe,$2B
+980,NIUM,,Singapore,Asia,$2B
+468,Biren Technology,Shanghai,China,Asia,$2B
+709,SparkCognition,Austin,United States,North America,$2B
+138,Lendable,London,United Kingdom,Europe,$2B
+719,Epirus,Hawthorne,United States,North America,$2B
+505,MUSINSA,Seoul,South Korea,Asia,$2B
+811,Carousell,,Singapore,Asia,$2B
+395,Built,Nashville,United States,North America,$2B
+746,YugaByte,Sunnyvale,United States,North America,$2B
+1052,Vedantu,Bengaluru,India,Asia,$2B
+806,At-Bay,Mountain View,United States,North America,$2B
+873,BenevolentAI,London,United Kingdom,Europe,$2B
+966,Meero,Paris,France,Europe,$2B
+545,AppsFlyer,San Francisco,United States,North America,$2B
+912,Fabric,New York,United States,North America,$2B
+187,Rec Room,Seattle,United States,North America,$2B
+47,Ripple,San Francisco,United States,North America,$2B
+868,Augury,New York,United States,North America,$2B
+671,fabric,Bellevue,United States,North America,$2B
+521,Aledade,Bethesda,United States,North America,$2B
+591,Spring Health,New York,United States,North America,$2B
+593,SWORD Health,New York,United States,North America,$2B
+84,National Stock Exchange of India,Mumbai,India,Asia,$2B
+459,Transcarent,San Francisco,United States,North America,$2B
+514,Huaqin Telecom Technology,Shanghai,China,Asia,$2B
+425,Veho,Boulder,United States,North America,$2B
+561,Everlaw,Oakland,United States,North America,$2B
+303,Blockstream,Vancouver,Canada,North America,$2B
+914,Fever Labs,New York,United States,North America,$2B
+957,Locus Robotics,Wilmington,United States,North America,$2B
+368,Il Makiage,New York,United States,North America,$2B
+204,Articulate,New York,United States,North America,$2B
+14,Chime,San Francisco,United States,North America,$2B
+1010,REEF Technology,Miami,United States,North America,$2B
+10,Revolut,London,United Kingdom,Europe,$2B
+220,Hozon Auto,Shanghai,China,Asia,$2B
+615,Fair,Santa Monica,United States,North America,$2B
+6,Checkout.com,London,United Kingdom,Europe,$2B
+3,Stripe,San Francisco,United States,North America,$2B
+34,Getir,Istanbul,Turkey,Europe,$2B
+12,FTX,,Bahamas,North America,$2B
+657,Hello TransTech,Shanghai,China,Asia,$2B
+169,Greensill,London,United Kingdom,Europe,$2B
+2,SHEIN,Shenzhen,China,Asia,$2B
+26,Devoted Health,Waltham,United States,North America,$2B
+93,Ziroom,Beijing,China,Asia,$2B
+176,Horizon Robotics,Beijing,China,Asia,$2B
+86,Impossible Foods,Redwood City,United States,North America,$2B
+66,Kavak,Lerma de Villada,Mexico,North America,$2B
+64,Nuro,Mountain View,United States,North America,$2B
+62,Yanolja,Seoul,South Korea,Asia,$2B
+60,Thrasio,Walpole,United States,North America,$2B
+71,Dream11,Mumbai,India,Asia,$2B
+640,Snapdeal,New Delhi,India,Asia,$2B
+56,Lalamove,Cheung Sha Wan,Hong Kong,Asia,$2B
+76,Lacework,San Jose,United States,North America,$2B
+83,Flexport,San Francisco,United States,North America,$2B
+149,Rappi,Bogota,Colombia,South America,$2B
+67,N26,Berlin,Germany,Europe,$2B
+155,C6 Bank,Sao Paulo,Brazil,South America,$2B
+103,Easyhome,Beijing,China,Asia,$2B
+523,ConcertAI,Boston,United States,North America,$2B
+789,SmartMore,Shenzhen,China,Asia,$2B
+961,Maimai,Beijing,China,Asia,$2B
+854,58 Daojia,Beijing,China,Asia,$2B
+554,ClickHouse,Portola Valley,United States,North America,$2B
+522,CoinSwitch Kuber,Bangalore,India,Asia,$2B
+935,Huike Group,Beijing,China,Asia,$2B
+552,Chipper Cash,San Francisco,United States,North America,$2B
+687,Astranis Space Technologies,San Francisco,United States,North America,$2B
+815,Enpal,Berlin,Germany,Europe,$2B
+895,Clearcover,Chicago,United States,North America,$2B
+510,Lightricks,Jerusalem,Israel,Asia,$2B
+531,Moveworks,Mountain View,United States,North America,$2B
+949,KnowBox,Beijing,China,Asia,$2B
+833,Staffbase,Chemnitz,Germany,Europe,$2B
+650,WTOIP,Guangzhou,China,Asia,$2B
+1057,Vox Media,Washington,United States,North America,$2B
+785,Public,New York,United States,North America,$2B
+408,Matillion,Altrincham,United Kingdom,Europe,$2B
+1015,Savage X Fenty,El Segundo,United States,North America,$2B
+642,TalkingData,Beijing,China,Asia,$2B
+617,Globality,Menlo Park,United States,North America,$2B
+779,MyGlamm,Mumbai,India,Asia,$2B
+475,Gousto,London,United Kingdom,Europe,$2B
+349,Sky Mavis,Ho Chi Minh City,Vietnam,Asia,$2B
+272,Vercel,San Francisco,United States,North America,$2B
+708,Scalable Capital,Munich,Germany,Europe,$2B
+916,FLASH,Austin,United States,North America,$2B
+289,Komodo Health,San Francisco,United States,North America,$2B
+675,Spendesk,Paris,France,Europe,$2B
+266,Side,San Francisco,United States,North America,$2B
+784,Prime Medicine,Cambridge,United States,North America,$2B
+471,CircleCI,San Francisco,United States,North America,$2B
+622,iTutorGroup,Shanghai,China,Asia,$2B
+574,LTK,Dallas,United States,North America,$2B
+766,BigPanda,Mountain View,United States,North America,$2B
+693,Degreed,Pleasanton,United States,North America,$2B
+390,Extend,San Francisco,United States,North America,$2B
+413,Olist,Curitiba,Brazil,South America,$2B
+684,M1 Finance,Chicago,United States,North America,$2B
+801,Elemy,San Francisco,United States,North America,$2B
+748,OVO Energy,Bristol,United Kingdom,Europe,$2B
+206,FalconX,San Mateo,United States,North America,$2B
+752,Honor Technology,San Francisco,United States,North America,$2B
+820,Gaussian Robotics,Shanghai,China,Asia,$2B
+965,MediaMath,New York,United States,North America,$2B
+448,Infinidat,Waltham,United States,North America,$2B
+902,DriveNets,Ra'anana,Israel,Asia,$2B
+1036,Swile,Montpellier,France,Europe,$2B
+304,Cedar,New York,United States,North America,$2B
+325,Amber Group,,Hong Kong,Asia,$2B
+1019,Shield AI,San Diego,United States,North America,$2B
+690,Clarify Health,San Francisco,United States,North America,$2B
+636,Rad Power Bikes,Seattle,United States,North America,$2B
+342,Lattice,San Francisco,United States,North America,$2B
+343,LaunchDarkly,Oakland,United States,North America,$2B
+933,HMD Global,Espoo,Finland,Europe,$2B
+1011,ReliaQuest,Tampa,United States,North America,$2B
+1062,Womai,Beijing,China,Asia,$2B
+428,Zenoti,Bellevue,United States,North America,$2B
+1021,ShipBob,Chicago,United States,North America,$2B
+332,Contentful,Berlin,Germany,Europe,$2B
+950,Kopi Kenangan,Jakarta,Indonesia,Asia,$2B
+54,Figma,San Francisco,United States,North America,$2B
+308,Ironclad,Sacramento,United States,North America,$2B
+493,Algolia,San Francisco,United States,North America,$2B
+237,Webflow,San Francisco,United States,North America,$2B
+730,Betterment,New York,United States,North America,$2B
+741,Loadsmart,New York,United States,North America,$2B
+960,MadeiraMadeira,Parana,Brazil,South America,$2B
+1038,TechStyle Fashion Group,El Segundo,United States,North America,$2B
+780,Oda,Oslo,Norway,Europe,$2B
+774,Inari,Cambridge,United States,North America,$2B
+936,Human Interest,San Francisco,United States,North America,$2B
+351,TradingView,Westerville,United States,North America,$2B
+602,Zilch,London,United Kingdom,Europe,$2B
+802,Guideline,San Mateo,United States,North America,$2B
+794,L&P Cosmetic,Seoul,South Korea,Asia,$2B
+381,MindMaze,Lausanne,Switzerland,Europe,$2B
+1025,Skydio,Redwood City,United States,North America,$2B
+831,Sennder,Berlin,Germany,Europe,$2B
+429,Zeta,San Francisco,United States,North America,$2B
+547,Aviatrix,Santa Clara,United States,North America,$2B
+568,Iterable,San Francisco,United States,North America,$2B
+57,Notion Labs,San Francisco,United States,North America,$2B
+628,LifeMiles,Bogota,Colombia,South America,$2B
+517,CloudWalk,Sao Paulo,Brazil,South America,$2B
+777,Merama,Mexico City,Mexico,North America,$2B
+827,Nexthink,Prilly,Switzerland,Europe,$2B
+786,Qumulo,Seattle,United States,North America,$2B
+528,InVision,New York,United States,North America,$2B
+210,Globalization Partners,Boston,United States,North America,$2B
+917,Flash Express,Bangkok,Thailand,Asia,$2B
+328,Calendly,Atlanta,United States,North America,$2B
+508,Diamond Foundry,San Francisco,United States,North America,$2B
+192,Applied Intuition,Sunnyvale,United States,North America,$2B
+994,PatSnap,,Singapore,Asia,$2B
+877,BlackBuck,Bengaluru,India,Asia,$2B
+646,Vectra Networks,San Jose,United States,North America,$2B
+589,Redis Labs,Mountain View,United States,North America,$2B
+278,Pendo,Raleigh,United States,North America,$2B
+474,Dragos,Hanover,United States,North America,$2B
+918,FlashEx,Beijing,China,Asia,$2B
+323,ActiveCampaign,Chicago,United States,North America,$2B
+729,Unisound,Beijing,China,Asia,$2B
+835,TangoMe,Mountain View,United States,North America,$2B
+680,Bordrin Motors,Shanghai,China,Asia,$2B
+927,Groq,Mountain View,United States,North America,$2B
+467,Alan,Paris,France,Europe,$2B
+535,Roofstock,Oakland,United States,North America,$2B
+773,Helium Systems,San Francisco,United States,North America,$2B
+596,Unqork,New York,United States,North America,$2B
+267,SiFive,San Mateo,United States,North America,$2B
+208,Chainalysis,New York,United States,North America,$2B
+702,Koudai,Beijing,China,Asia,$2B
+648,Wacai,Hangzhou,China,Asia,$2B
+1003,PPRO,London,United Kingdom,Europe,$2B
+412,NotCo,Santiago,Chile,South America,$2B
+558,Divvy Homes,San Francisco,United States,North America,$2B
+1029,SnapLogic,San Mateo,United States,North America,$2B
+158,Icertis,Bellevue,United States,North America,$2B
+536,Urban Company,Gurgaon,India,Asia,$2B
+598,Virta Health,San Francisco,United States,North America,$2B
+512,ZocDoc,New York,United States,North America,$2B
+39,ZongMu Technology,Shanghai,China,Asia,$2B
+1037,Tarana Wireless,Milpitas,United States,North America,$2B
+431,Mobile Premier League,Bengaluru,India,Asia,$2B
+739,Konfio,Mexico City,Mexico,North America,$2B
+499,Bitso,Mexico City,Mexico,North America,$2B
+207,Guild Education,Denver,United States,North America,$2B
+1069,Zhaogang,Shanghai,China,Asia,$2B
+307,Innovaccer,San Francisco,United States,North America,$1B
+437,ASAPP,New York,United States,North America,$1B
+787,Rohlik,Prague,Czech Republic,Europe,$1B
+392,Andela,New York,United States,North America,$1B
+182,Flock Safety,Atlanta,United States,North America,$1B
+401,Devo,Cambridge,United States,North America,$1B
+555,Clip,Mexico City,Mexico,North America,$1B
+713,VideoAmp,Los Angeles,United States,North America,$1B
+772,GrubMarket,San Francisco,United States,North America,$1B
+700,GupShup,San Francisco,United States,North America,$1B
+442,Clio,Burnaby,Canada,North America,$1B
+663,Beisen,Beijing,China,Asia,$1B
+1068,Yunxuetang,Suzhou,China,Asia,$1B
+722,Signifyd,San Jose,United States,North America,$1B
+444,Exabeam,Foster City,United States,North America,$1B
+888,CargoX,Sao Paulo,Brazil,South America,$1B
+366,Fenbi Education,Beijing,China,Asia,$1B
+915,Fiture,Chengdu,China,Asia,$1B
+339,Groww,Bengaluru,India,Asia,$1B
+656,Ynsect,Evry,France,Europe,$1B
+659,ECARX,Wuhan,China,Asia,$1B
+631,Modernizing Medicine,Boca Raton,United States,North America,$1B
+275,Axonius,New York,United States,North America,$1B
+807,TELD,Qingdao,China,Asia,$1B
+985,Omio,Berlin,Germany,Europe,$1B
+466,WEMAKEPRICE,Seoul,South Korea,Asia,$1B
+524,Eightfold.ai,Santa Clara,United States,North America,$1B
+296,BlockDaemon,Los Angeles,United States,North America,$1B
+735,Flock Freight,Encinitas,United States,North America,$1B
+309,Skims,Los Angeles,United States,North America,$1B
+577,Magic Leap,Plantation,United States,North America,$1B
+23,goPuff,Philadelphia,United States,North America,$1B
+105,SVOLT,Changzhou,China,Asia,$1B
+9,Databricks,San Francisco,United States,North America,$1B
+46,Zuoyebang,Beijing,China,Asia,$1B
+7,Instacart,San Francisco,United States,North America,$1B
+48,OYO Rooms,Gurugram,India,Asia,$1B
+502,Dialpad,San Francisco,United States,North America,$1B
+28,Grammarly,San Francisco,United States,North America,$1B
+516,YITU Technology,Shanghai,China,Asia,$1B
+438,BitSight Technologies,Boston,United States,North America,$1B
+501,Current,New York,United States,North America,$1B
+473,DispatchHealth,Denver,United States,North America,$1B
+465,solarisBank,Berlin,Germany,Europe,$1B
+1044,Thought Machine,London,United Kingdom,Europe,$1B
+818,Fundbox,San Francisco,United States,North America,$1B
+195,Whoop,Boston,United States,North America,$1B
+125,Better.com,New York,United States,North America,$1B
+885,CAIS,New York,United States,North America,$1B
+689,Cabify,Madrid,Spain,Europe,$1B
+288,Ethos,San Francisco,United States,North America,$1B
+280,JumpCloud,Louisville,United States,North America,$1B
+843,Socar,Jeju-do,South Korea,Asia,$1B
+256,Acronis,Schaffhausen,Switzerland,Europe,$1B
+582,Neo4j,San Mateo,United States,North America,$1B
+745,TravelPerk,Barcelona,Spain,Europe,$1B
+559,Dremio,Santa Clara,United States,North America,$1B
+590,SmartNews,Tokyo,Japan,Asia,$1B
+124,Benchling,San Francisco,United States,North America,$1B
+233,Patreon,San Francisco,United States,North America,$1B
+209,dbt Labs,Philadelphia,United States,North America,$1B
+284,Starburst,Boston,United States,North America,$1B
+119,Workato,Mountain View,United States,North America,$1B
+1016,Scalapay,Milan,Italy,Europe,$1B
+291,o9 Solutions,Dallas,United States,North America,$1B
+371,Pagaya,Tel Aviv,Israel,Asia,$1B
+488,KeepTruckin,San Francisco,United States,North America,$1B
+245,Vista Global,Dubai,United Arab Emirates,Asia,$1B
+435,ABL Space Systems,El Segundo,United States,North America,$1B
+346,Podium,Lehi,United States,North America,$1B
+445,ezCater,Boston,United States,North America,$1B
+539,Ankorstore,Paris,France,Europe,$1B
+500,BloomReach,Mountain View,United States,North America,$1B
+497,Zume,Mountain View,United States,North America,$1B
+99,Gemini,New York,United States,North America,$1B
+981,NoBroker,Bengaluru,India,Asia,$1B
+159,Moon Active,Tel Aviv,Israel,Asia,$1B
+150,6Sense,San Francisco,United States,North America,$1B
+710,Stash,New York,United States,North America,$1B
+348,Seismic,San Diego,United States,North America,$1B
+27,OpenSea,New York,United States,North America,$1B
+776,LivSpace,Bengaluru,India,Asia,$1B
+145,Pleo,Copenhagen,Denmark,Europe,$1B
+775,Jokr,New York,United States,North America,$1B
+385,AppDirect,San Francisco,United States,North America,$1B
+597,VerbIT,New York,United States,North America,$1B
+685,Ouyeel,Shanghai,China,Asia,$1B
+112,Postman,San Francisco,United States,North America,$1B
+829,Pharmapacks,Islandia,United States,North America,$1B
+553,Clearco,Toronto,Canada,North America,$1B
+492,MoMo,Ho Chi Minh City,Vietnam,Asia,$1B
+183,Handshake,San Francisco,United States,North America,$1B
+188,Tekion,San Ramon,United States,North America,$1B
+402,ElasticRun,Pune,India,Asia,$1B
+419,Solugen,Houston,United States,North America,$1B
+715,Yotpo,New York,United States,North America,$1B
+543,Akulaku,Jakarta,Indonesia,Asia,$1B
+923,Geek+,Beijing,China,Asia,$1B
+638,Shulan Health,Hangzhou,China,Asia,$1B
+660,Eat Just,San Francisco,United States,North America,$1B
+199,Papaya Global,New York,United States,North America,$1B
+525,FirstCry,Pune,India,Asia,$1B
+458,Zhubajie,Chongqing,China,Asia,$1B
+236,Vuori,Carlsbad,United States,North America,$1B
+90,Rippling,San Francisco,United States,North America,$1B
+108,Mambu,Amsterdam,Netherlands,Europe,$1B
+575,Lunar,Aarhus,Denmark,Europe,$1B
+767,CarDekho,Jaipur,India,Asia,$1B
+984,Omada Health,San Francisco,United States,North America,$1B
+548,BlaBlaCar,Paris,France,Europe,$1B
+238,Yuga Labs,Miami,United States,North America,$1B
+532,MX Technologies,Lehi,United States,North America,$1B
+562,Exotec,Croix,France,Europe,$1B
+453,Tonal,San Francisco,United States,North America,$1B
+699,Five Star Business Finance,Chennai,India,Asia,$1B
+557,Deliverr,San Francisco,United States,North America,$1B
+808,Acko General Insurance,Bengaluru,India,Asia,$1B
+759,Nexii,Vancouver,Canada,North America,$1B
+357,Boba,San Francisco,United States,North America,$1B
+922,Gauntlet Networks,New York,United States,North America,$1B
+905,EBANX,Curitiba,Brazil,South America,$1B
+300,MasterClass,San Francisco,United States,North America,$1B
+151,Cerebral,San Francisco,United States,North America,$1B
+976,Nature's Fynd,Chicago,United States,North America,$1B
+268,Somatus,McLean,United States,North America,$1B
+406,Ledger,Paris,France,Europe,$1B
+298,Dream Games,Istanbul,Turkey,Europe,$1B
+179,ChargeBee Technologies,Walnut,United States,North America,$1B
+242,Moglix,,Singapore,Asia,$1B
+387,Enflame,Shanghai,China,Asia,$1B
+496,Trulioo,Vancouver,Canada,North America,$1B
+336,Flutterwave,San Francisco,United States,North America,$1B
+727,Grove Collaborative,San Francisco,United States,North America,$1B
+560,Druva,Sunnyvale,United States,North America,$1B
+318,HighRadius,Houston,United States,North America,$1B
+581,Mynt,Taguig City,Philippines,Asia,$1B
+18,Miro,San Francisco,United States,North America,$1B
+193,Course Hero,Redwood City,United States,North America,$1B
+358,Bought By Many,London,United Kingdom,Europe,$1B
+757,Route,Lehi,United States,North America,$1B
+302,ApplyBoard,Kitchener,Canada,North America,$1B
+311,Zipline,South San Francisco,United States,North America,$1B
+1013,Rothy's,San Francisco,United States,North America,$1B
+537,Rokt,New York,United States,North America,$1B
+326,Anchorage Digital,San Francisco,United States,North America,$1B
+190,Outreach,Seattle,United States,North America,$1B
+955,Licious,Bengaluru,India,Asia,$1B
+24,Blockchain.com,London,United Kingdom,Europe,$1B
+133,Royole Corporation,Shenzhen,China,Asia,$1B
+1067,YipitData,New York,United States,North America,$1B
+197,GOAT,Culver City,United States,North America,$1B
+213,StockX,Detroit,United States,North America,$1B
+533,PayFit,London,United Kingdom,Europe,$1B
+721,Yaoshibang,Guangzhou,China,Asia,$1B
+276,Clari,Sunnyvale,United States,North America,$1B
+347,Remote,San Francisco,United States,North America,$1B
+59,Talkdesk,San Francisco,United States,North America,$1B
+486,Bowery Farming,New York,United States,North America,$1B
+142,Color,Burlingame,United States,North America,$1B
+447,HoneyBook,San Francisco,United States,North America,$1B
+196,Arctic Wolf Networks,Eden Prairie,United States,North America,$1B
+52,Chehaoduo,Beijing,China,Asia,$1B
+15,BYJU's,Bengaluru,India,Asia,$1B
+13,Fanatics,Jacksonville,United States,North America,$1B
+19,Yuanfudao,Beijing,China,Asia,$1B
+30,Northvolt,Stockholm,Sweden,Europe,$1B
+89,Ola Cabs,Bengaluru,India,Asia,$1B
+166,WM Motor,Shanghai,China,Asia,$1B
+29,Argo AI,Pittsburgh,United States,North America,$1B
+4,Klarna,Stockholm,Sweden,Europe,$1B
+324,Age of Learning,Glendale,United States,North America,$1B
+257,Aura,Burlington,United States,North America,$1B
+165,United Imaging Healthcare,Shanghai,China,Asia,$1B
+359,Cambridge Mobile Telematics,Cambridge,United States,North America,$1B
+576,Mafengwo,Beijing,China,Asia,$1B
+230,Melio,New York,United States,North America,$1B
+948,Kitopi,Dubai,United Arab Emirates,Asia,$1B
+180,Coalition,San Francisco,United States,North America,$1B
+573,Loggi,Sao Paulo,Brazil,South America,$1B
+530,Medable,Palo Alto,United States,North America,$1B
+283,OwnBackup,Englewood Cliffs,United States,North America,$1B
+520,Acorns,Irvine,United States,North America,$1B
+495,Spinny,Gurugram,India,Asia,$1B
+696,Epidemic Sound,Stockholm,Sweden,Europe,$1B
+711,Symphony,New York,United States,North America,$1B
+678,Yijiupi,Beijing,China,Asia,$1B
+132,CloudWalk Technology,Guangzhou,China,Asia,$1B
+986,ONE,,Singapore,Asia,$1B
+1056,VOI,Stockholm,Sweden,Europe,$1B
+469,Voodoo,Paris,France,Europe,$1B
+566,HuiMin,Beijing,China,Asia,$1B
+1047,Tresata,Charlotte,United States,North America,$1B
+992,PandaDoc,San Francisco,United States,North America,$1B
+762,Spiber,Tsuruoka,Japan,Asia,$1B
+706,Rebel Foods,Pune,India,Asia,$1B
+221,Aurora Solar,San Francisco,United States,North America,$1B
+564,Guoquan Shihui,Shanghai,China,Asia,$1B
+329,Carbon Health,San Francisco,United States,North America,$1B
+608,China Cloud,Wuxi,China,Asia,$1B
+116,Personio,Munich,Germany,Europe,$1B
+859,Alto Pharmacy,San Francisco,United States,North America,$1B
+504,Gympass,New York,United States,North America,$1B
+337,Forter,New York,United States,North America,$1B
+879,BlueVoyant,New York,United States,North America,$1B
+578,Misfits Market,Pennsauken,United States,North America,$1B
+527,GoCardless,London,United Kingdom,Europe,$1B
+629,LinkSure Network,Shanghai,China,Asia,$1B
+260,Digit Insurance,Bengaluru,India,Asia,$1B
+692,Deezer,Paris,France,Europe,$1B
+259,Cato Networks,Tel Aviv,Israel,Asia,$1B
+867,Assent,Ottawa,Canada,North America,$1B
+338,Grafana Labs,New York,United States,North America,$1B
+225,ClickUp,San Diego,United States,North America,$1B
+362,Cgtz,Hangzhou,China,Asia,$1B
+541,Advance Intelligence Group,,Singapore,Asia,$1B
+883,C2FO,Leawood,United States,North America,$1B
+450,Paxos,New York,United States,North America,$1B
+838,Nxin,Beijing,China,Asia,$1B
+181,Commure,San Francisco,United States,North America,$1B
+479,PAX,San Francisco,United States,North America,$1B
+286,Zetwerk,Bengaluru,India,Asia,$1B
+432,Uala,Buenos Aires,Argentina,South America,$1B
+570,Kaseya,Miami,United States,North America,$1B
+1020,Shift Technology,Paris,France,Europe,$1B
+216,BitPanda,Vienna,Austria,Europe,$1B
+607,Cell C,Midrand,South Africa,Africa,$1B
+900,DianRong,Shanghai,China,Asia,$1B
+77,Tipalti,San Mateo,United States,North America,$1B
+244,Upstox,Mumbai,India,Asia,$1B
+569,Kajabi,Irvine,United States,North America,$1B
+506,NuCom Group,Unterfoehring,Germany,Europe,$1B
+313,DriveWealth,Chatham,United States,North America,$1B
+235,Rubrik,Palo Alto,United States,North America,$1B
+654,Yimidida,Shanghai,China,Asia,$1B
+177,MoonPay,Miami,United States,North America,$1B
+373,Promasidor Holdings,Bryanston,South Africa,Asia,$1B
+487,Greenlight,Atlanta,United States,North America,$1B
+42,Weilong Foods,Luohe,China,Asia,$1B
+299,Illumio,Sunnyvale,United States,North America,$1B
+141,Checkr,San Francisco,United States,North America,$1B
+137,Vinted,Vilnius,Lithuania,Europe,$1B
+51,Alchemy,San Francisco,United States,North America,$1B
+586,Pipe,Miami,United States,North America,$1B
+144,BetterUp,San Francisco,United States,North America,$1B
+389,HeartFlow,Redwood City,United States,North America,$1B
+572,KRY,Stockholm,Sweden,Europe,$1B
+585,Opay,Lagos,Nigeria,Africa,$1B
+887,Capsule,New York,United States,North America,$1B
+5,Canva,Surry Hills,Australia,Oceania,$1B
+677,XiaoZhu,Beijing,China,Asia,$1B
+49,OutSystems,Boston,United States,North America,$1B
+793,Xpressbees,Pune,India,Asia,$1B
+470,Carsome,Selangor,Malaysia,Asia,$1B
+261,Fetch Rewards,Madison,United States,North America,$1B
+295,Transmit Security,Tel Aviv,Israel,Asia,$1B
+95,Gong,Palo Alto,United States,North America,$1B
+1053,Veev,San Mateo,United States,North America,$1B
+594,Tier,Berlin,Germany,Europe,$1B
+120,Upgrade,San Francisco,United States,North America,$1B
+974,Movile,Sao Paulo,Brazil,South America,$1B
+306,Eruditus Executive Education,Mumbai,India,Asia,$1B
+939,iFood,Osasco,Brazil,South America,$1B
+526,Forto,Berlin,Germany,Europe,$1B
+754,Kuaikan Manhua,Beijing,China,Asia,$1B
+376,HEYTEA,Shenzhen,China,Asia,$1B
+889,Carro,,Singapore,Asia,$1B
+148,Collibra,Brussels,Belgium,Europe,$1B
+157,Hopper,Montreal,Canada,North America,$1B
+519,Volocopter,Bruchsal,Germany,Europe,$1B
+41,Swiggy,Bengaluru,India,Asia,$1B
+43,Global Switch,London,United Kingdom,Europe,$1B
+16,J&T Express,Jakarta,Indonesia,Asia,$1B
+38,Xingsheng Selected,Changsha,China,Asia,$1B
+312,BharatPe,New Delhi,India,Asia,$1B
+940,InFarm,Berlin,Germany,Europe,$1B
+127,Wiz,Tel Aviv,Israel,Asia,$1B
+94,Scale AI,San Francisco,United States,North America,$1B
+205,Dutchie,Bend,United States,North America,$1B
+270,Uniphore,Palo Alto,United States,North America,$1B
+75,Dapper Labs,Vancouver,Canada,North America,$1B
+993,Pat McGrath Labs,New York,United States,North America,$1B
+744,The Brandtech Group,New York,United States,North America,$1B
+341,KK Group,Dongguan,China,Asia,$1B
+472,DealShare,Bengaluru,India,Asia,$1B
+571,Keep,Beijing,China,Asia,$1B
+228,Houzz,Palo Alto,United States,North America,$1B
+1073,Zwift,Long Beach,United States,North America,$1B
+1040,TERMINUS Technology,Beijing,China,Asia,$1B
+460,Trader Interactive,Norfolk,United States,North America,$1B
+316,SpotOn,San Francisco,United States,North America,$1B
+320,Nuvemshop,Sao Paulo,Brazil,South America,$1B
+107,Deel,San Francisco,United States,North America,$1B
+605,Aprogen,Seongnam-Si,South Korea,Asia,$1B
+1006,Quizlet,San Francisco,United States,North America,$1B
+666,Orca Security,Portland,United States,North America,$1B
+736,InSightec,Tirat Carmel,Israel,Asia,$1B
+156,Cockroach Labs,New York,United States,North America,$1B
+372,PolicyBazaar,Gurgaon,India,Asia,$1B
+544,Apeel Sciences,Goleta,United States,North America,$1B
+378,Claroty,New York,United States,North America,$1B
+184,Highspot,Seattle,United States,North America,$1B
+135,Socure,New York,United States,North America,$1B
+102,Black Unicorn Factory,Los Angeles,United States,North America,$1B
+143,Dataiku,New York,United States,North America,$1B
+869,Axelar,Waterloo,Canada,North America,$1B
+674,Mofang Living,Shanghai,China,Asia,$1B
+627,Kuaigou Dache,Tianjin,China,Asia,$1B
+977,Newlink Group,Beijing,China,Asia,$1B
+167,ZEPZ,London,United Kingdom,Europe,$1B
+821,GetYourGuide,Berlin,Germany,Europe,$1B
+198,Noom,New York,United States,North America,$1B
+655,Yipin Shengxian,Hefei,China,Asia,$1B
+546,Avant,Chicago,United States,North America,$1B
+661,Trumid,New York,United States,North America,$1B
+80,Ramp,New York,United States,North America,$1B
+253,Cohesity,San Jose,United States,North America,$1B
+100,ConsenSys,New York,United States,North America,$1B
+483,Vestiaire Collective,Paris,France,Europe,$1B
+214,ThoughtSpot,Sunnyvale,United States,North America,$1B
+669,CureFit,Bengaluru,India,Asia,$1B
+315,PsiQuantum,Palo Alto,United States,North America,$1B
+297,Convoy,Seattle,United States,North America,$1B
+222,Branch,Redwood City,United States,North America,$1B
+515,Addepar,Mountain View,United States,North America,$1B
+68,Klaviyo,Boston,United States,North America,$1B
+726,GPclub,Seoul,South Korea,Asia,$1B
+904,Dxy.cn,Hangzhou,China,Asia,$1B
+441,Carbon,Redwood City,United States,North America,$1B
+301,Graphcore,Bristol,United Kingdom,Europe,$1B
+919,Fractal Analytics,Mumbai,India,Asia,$1B
+263,GoStudent,Vienna,Austria,Europe,$1B
+140,Anduril,Irvine,United States,North America,$1B
+55,Gusto,San Francisco,United States,North America,$1B
+377,BGL Group,Peterborough,United Kingdom,Europe,$1B
+871,Banma Network Technologies,Shanghai,China,Asia,$1B
+310,Thumbtack,San Francisco,United States,North America,$1B
+613,EQRx,Cambridge,United States,North America,$1B
+163,Qonto,Paris,France,Europe,$1B
+277,ManoMano,Paris,France,Europe,$1B
+1059,Watershed,San Francisco,United States,North America,$1B
+503,G7 Networks,Beijing,China,Asia,$1B
+330,Circle,Boston,United States,North America,$1B
+254,Cybereason,Boston,United States,North America,$1B
+367,Hesai Tech,Shanghai,China,Asia,$1B
+399,Collective Health,San Francisco,United States,North America,$1B
+61,Dunamu,Seoul,South Korea,Asia,$1B
+375,Ximalaya FM,Shanghai,China,Asia,$1B
+716,Neon,Sao Paulo,Brazil,South America,$1B
+224,Cerebras Systems,Los Altos,United States,North America,$1B
+22,Genki Forest,Beijing,China,Asia,$1B
+720,Klook,Central,Hong Kong,Asia,$1B
+322,Workrise,Austin,United States,North America,$1B
+279,Plume,Palo Alto,United States,North America,$1B
+111,FiveTran,Oakland,United States,North America,$1B
+126,iCapital Network,New York,United States,North America,$1B
+269,Sysdig,San Francisco,United States,North America,$1B
+25,Plaid,San Francisco,United States,North America,$1B
+160,OfBusiness,Gurgaon,India,Asia,$1B
+731,Cava Group,Washington,United States,North America,$1B
+202,Sorare,Paris,France,Europe,$1B
+74,Razorpay,Bengaluru,India,Asia,$1B
+439,Cao Cao Mobility,Hangzhou,China,Asia,$1B
+379,Improbable,London,United Kingdom,Europe,$1B
+154,QuintoAndar,Campinas,Brazil,South America,$1B
+423,TuJia,Beijing,China,Asia,$1B
+262,Games24x7,Mumbai,India,Asia,$1B
+219,Medlinker,Chengdu,China,Asia,$1B
+161,Ola Electric Mobility,Bengaluru,India,Asia,$1B
+36,Bitmain,Beijing,China,Asia,$1B
+384,SellerX,Berlin,Germany,Europe,$1B
+599,Xinchao Media,Chengdu,China,Asia,$1B
+20,Rapyd,London,United Kingdom,Europe,$1B
+241,Kurly,Seoul,South Korea,Asia,$1B
+69,Niantic,San Francisco,United States,North America,$1B
+333,Cross River Bank,Fort Lee,United States,North America,$1B
+246,Yixia,Beijing,China,Asia,$1B
+70,Tanium,Kirkland,United States,North America,$1B
+174,Lenskart,Faridabad,India,Asia,$1B
+294,Via,New York,United States,North America,$1B
+601,XtalPi,Shenzhen,China,Asia,$1B
+795,Mininglamp Technology,Beijing,China,Asia,$1B
+319,Loft,Sao Paulo,Brazil,South America,$1B
+274,Unacademy,Bengaluru,India,Asia,$1B
+538,Starling Bank,London,United Kingdom,Europe,$1B
+478,Harry's,New York,United States,North America,$1B
+1072,Zopa,London,United Kingdom,Europe,$1B
+200,Redwood Materials,Carson City,United States,North America,$1B
+498,AIWAYS,Shanghai,China,Asia,$1B
+35,Biosplice Therapeutics,San Diego,United States,North America,$1B
+903,Dune Analytics,Oslo,Norway,Europe,$1B
+610,DeepBlue Technology,Shanghai,China,Asia,$1B
+11,Epic Games,Cary,United States,North America,$1B
+1,SpaceX,Hawthorne,United States,North America,$1B
+932,Heyday,Chicago,United States,North America,$1B
+653,Yiguo,Shanghai,China,Asia,$1B
+874,Berlin Brands Group,Berlin,Germany,Europe,$1B
+37,GoodLeap,Roseville,United States,North America,$1B
+106,Airwallex,Melbourne,Australia,Oceania,$1B
+117,RELEX Solutions,Helsinki,Finland,Europe,$1B
+1071,Zihaiguo,Chongqing,China,Asia,$1B
+305,ContentSquare,Paris,France,Europe,$1B
+110,Doctolib,Paris,France,Europe,$1B
+281,Project44,Chicago,United States,North America,$1B
+81,Tempus,Chicago,United States,North America,$1B
+152,Creditas,Sao Paulo,Brazil,South America,$1B
+122,Hinge Health,San Francisco,United States,North America,$1B
+403,Gett,London,United Kingdom,Europe,$1B
+92,Toss,Seoul,South Korea,Asia,$1B
+98,Automation Anywhere,San Jose,United States,North America,$1B
+232,Olive,Columbus,United States,North America,$1B
+247,Automattic,San Francisco,United States,North America,$1B
+388,Tradeshift,San Francisco,United States,North America,$1B
+88,Attentive,Hoboken,United States,North America,$1B
+218,Weee!,Fremont,United States,North America,$1B
+178,Celsius Network,Hoboken,United States,North America,$1B
+128,DailyHunt,Bengaluru,India,Asia,$1B
+851,OrCam Technologies,Jerusalem,Israel,Asia,$1B
+853,1KMXC,Hangzhou,China,Asia,$1B
+227,Farmers Business Network,San Carlos,United States,North America,$1B
+1061,WeLab,,Hong Kong,Asia,$1B
+799,Tuhu,Shanghai,China,Asia,$1B
+293,Sila Nanotechnologies,Alameda,United States,North America,$1B
+231,Next Insurance,Palo Alto,United States,North America,$1B
+114,Cityblock Health,Brooklyn,United States,North America,$1B
+0,Bytedance,Beijing,China,Asia,$1B
+463,Jobandtalent,Madrid,Spain,Europe,$1B
+162,Pine Labs,Noida,India,Asia,$1B
+433,Wenheyou,Hunan,China,Asia,$1B
+836,The Bank of London,London,United Kingdom,Europe,$1B
+668,Forte Labs,San Francisco,United States,North America,$1B
+123,Lyra Health,Burlingame,United States,North America,$1B
+96,TripActions,Palo Alto,United States,North America,$1B
+17,Xiaohongshu,Shanghai,China,Asia,$1B
+353,wefox,Berlin,Germany,Europe,$1B
+973,Morning Consult,Washington DC,United States,North America,$1B
+97,1Password,Toronto,Canada,North America,$1B
+87,CRED,Bengaluru,India,Asia,$1B
+153,OneTrust,Atlanta,United States,North America,$1B
+109,Mollie,Amsterdam,Netherlands,Europe,$1B
+946,JoyTunes,Tel Aviv,Israel,Asia,$1B
+937,Ibotta,Denver,United States,North America,$1B
+139,UBTECH Robotics,Shenzhen,China,Asia,$1B
+131,Meizu Technology,Zhuhai,China,Asia,$1B
+360,Carzone,Jiangsu,China,Asia,$1B
+658,Miaoshou Doctor,Beijing,China,Asia,$1B
+186,Mirakl,Paris,France,Europe,$1B
+604,Alzheon,Framingham,United States,North America,$1B
+600,Xingyun Group,Shenzhen,China,Asia,$1B
+672,JOLLY Information Technology,Hangzhou,China,Asia,$1B
+518,Retool,San Francisco,United States,North America,$1B
+331,CMR Surgical,Cambridge,United Kingdom,Europe,$1B
+382,Ninja Van,,Singapore,Asia,$1B
+21,Discord,San Francisco,United States,North America,$1B
+271,Varo Bank,San Francisco,United States,North America,$1B
+664,Earnix,Giv'atayim,Israel,Asia,$1B
+1070,Zhuan Zhuan,Beijing,China,Asia,$1B
+146,Trade Republic,Berlin,Germany,Europe,$1B
+292,Scopely,Culver City,United States,North America,$1B
+792,Workhuman,Dublin,Ireland,Europe,$1B
+639,SITECH DEV,Guiyang,China,Asia,$1B
+567,ISN,Dallas,United States,North America,$1B
+945,Iodine Software,Austin,United States,North America,$1B
+947,Kendra Scott,Austin,United States,North America,$1B
+717,Veepee,La Plaine Saint-Denis,France,Europe,$1B
+424,Uplight,Boulder,United States,North America,$1B
+733,DistroKid,New York,United States,North America,$1B
+1002,Poizon,Shanghai,China,Asia,$1B
+215,SSENSE,Montreal,Canada,North America,$1B
+866,Assembly,Culver City,United States,North America,$1B
+651,Xiaobing,Beijing,China,Asia,$1B
+890,Carson Group,Lincoln,United States,North America,$1B

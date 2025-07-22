@@ -1,0 +1,1075 @@
+company_id,industry,Company
+189,Health,Bytedance
+848,Fintech,SpaceX
+556,Internet software & services,SHEIN
+999,Internet software & services,Stripe
+396,Fintech,Klarna
+931,Consumer & retail,Canva
+364,E-commerce & direct-to-consumer,Checkout.com
+732,Fintech,Instacart
+906,Hardware,JUUL Labs
+72,Hardware,Databricks
+983,Fintech,Revolut
+898,Internet software & services,Epic Games
+844,Fintech,FTX
+894,Fintech,Fanatics
+813,Fintech,Chime
+743,Other,BYJU's
+226,Mobile & telecommunications,J&T Express
+963,Fintech,Xiaohongshu
+764,Fintech,Miro
+839,E-commerce & direct-to-consumer,Yuanfudao
+1033,Internet software & services,Rapyd
+725,Health,Discord
+549,Artificial intelligence,Genki Forest
+667,Mobile & telecommunications,goPuff
+755,Fintech,Blockchain.com
+782,Fintech,Plaid
+175,Fintech,Devoted Health
+398,Fintech,OpenSea
+814,E-commerce & direct-to-consumer,Grammarly
+436,Artificial intelligence,Argo AI
+1046,Artificial intelligence,Northvolt
+565,Artificial intelligence,Faire
+781,Internet software & services,Airtable
+997,E-commerce & direct-to-consumer,Brex
+194,Internet software & services,Getir
+249,Fintech,Biosplice Therapeutics
+434,Auto & transportation,Bitmain
+1035,Cybersecurity,GoodLeap
+969,Data management & analytics,Xingsheng Selected
+1018,Other,ZongMu Technology
+355,Internet software & services,Bolt
+934,E-commerce & direct-to-consumer,Swiggy
+1054,Fintech,Weilong Foods
+901,Cybersecurity,Global Switch
+173,Internet software & services,Bolt
+738,Fintech,Celonis
+422,Internet software & services,Zuoyebang
+830,Health,Ripple
+1004,Other,OYO Rooms
+951,E-commerce & direct-to-consumer,OutSystems
+734,Internet software & services,ServiceTitan
+1063,Fintech,Alchemy
+623,Fintech,Chehaoduo
+846,Data management & analytics,Digital Currency Group
+823,Fintech,Figma
+944,Fintech,Gusto
+1030,Artificial intelligence,Lalamove
+824,E-commerce & direct-to-consumer,Notion Labs
+930,Internet software & services,reddit
+370,Data management & analytics,Talkdesk
+618,E-commerce & direct-to-consumer,Thrasio
+456,Cybersecurity,Dunamu
+893,E-commerce & direct-to-consumer,Yanolja
+812,Other,Pony.ai
+1001,Other,Nuro
+703,Cybersecurity,Snyk
+884,Health,Kavak
+404,Cybersecurity,N26
+952,Internet software & services,Klaviyo
+625,Internet software & services,Niantic
+971,Internet software & services,Tanium
+796,Edtech,Dream11
+909,Fintech,DJI Innovations
+587,Artificial intelligence,Netskope
+273,Health,Razorpay
+771,Internet software & services,Dapper Labs
+758,Internet software & services,Lacework
+652,Internet software & services,Tipalti
+8,Consumer & retail,Hopin
+760,Mobile & telecommunications,Caris Life Sciences
+394,Health,Ramp
+393,Fintech,Tempus
+870,Other,Fireblocks
+804,Artificial intelligence,Flexport
+1041,Internet software & services,National Stock Exchange of India
+443,Artificial intelligence,Meicai
+978,Internet software & services,Impossible Foods
+612,Auto & transportation,CRED
+714,Mobile & telecommunications,Attentive
+925,Fintech,Ola Cabs
+421,Internet software & services,Rippling
+449,Fintech,Carta
+1022,"""Supply chain, logistics, & delivery""",Toss
+240,Other,Ziroom
+644,"""Supply chain, logistics, & delivery""",Scale AI
+718,Fintech,Gong
+920,Fintech,TripActions
+1048,Health,1Password
+1024,Artificial intelligence,Automation Anywhere
+929,Artificial intelligence,Gemini
+751,Internet software & services,ConsenSys
+1012,Other,Ro
+863,Artificial intelligence,Black Unicorn Factory
+662,Fintech,Easyhome
+1027,Fintech,WeDoctor
+783,Fintech,SVOLT
+592,Cybersecurity,Airwallex
+1023,Fintech,Deel
+1051,Internet software & services,Mambu
+633,Internet software & services,Mollie
+635,Internet software & services,Doctolib
+750,Fintech,FiveTran
+697,Internet software & services,Postman
+886,Internet software & services,Back Market
+826,Edtech,Cityblock Health
+1000,Artificial intelligence,DataRobot
+740,Internet software & services,Personio
+798,Health,RELEX Solutions
+1008,Consumer & retail,Vice Media
+761,Internet software & services,Workato
+701,Internet software & services,Upgrade
+825,Internet software & services,Lianjia
+344,Internet software & services,Hinge Health
+695,Internet software & services,Lyra Health
+876,Hardware,Benchling
+643,Artificial intelligence,Better.com
+509,Internet software & services,iCapital Network
+979,Internet software & services,Wiz
+1031,Internet software & services,DailyHunt
+817,Other,Howden Group Holdings
+943,Artificial intelligence,Meesho
+975,Internet software & services,Meizu Technology
+647,Cybersecurity,CloudWalk Technology
+426,Artificial intelligence,Royole Corporation
+705,Health,Monzo
+724,E-commerce & direct-to-consumer,Socure
+464,Internet software & services,VIPKid
+942,Fintech,Vinted
+354,Other,Lendable
+688,E-commerce & direct-to-consumer,UBTECH Robotics
+1045,Internet software & services,Anduril
+391,Internet software & services,Checkr
+891,Cybersecurity,Color
+1066,"""Supply chain, logistics, & delivery""",Dataiku
+579,Fintech,BetterUp
+686,Health,Pleo
+822,E-commerce & direct-to-consumer,Trade Republic
+882,"""Supply chain, logistics, & delivery""",Chipone
+816,Cybersecurity,Collibra
+369,Hardware,Rappi
+340,Fintech,6Sense
+1058,Internet software & services,Cerebral
+129,Other,Creditas
+862,Artificial intelligence,OneTrust
+363,Edtech,QuintoAndar
+603,"""Supply chain, logistics, & delivery""",C6 Bank
+645,Health,Cockroach Labs
+769,Fintech,Hopper
+788,Internet software & services,Icertis
+452,Fintech,Moon Active
+420,Other,OfBusiness
+996,Cybersecurity,Ola Electric Mobility
+763,Artificial intelligence,Pine Labs
+803,Fintech,Qonto
+765,Internet software & services,SambaNova Systems
+989,Health,United Imaging Healthcare
+409,Artificial intelligence,WM Motor
+580,Internet software & services,ZEPZ
+513,Other,Abogen
+809,Internet software & services,Greensill
+791,Edtech,HyalRoute
+998,Mobile & telecommunications,Radiology Partners
+455,Health,Yello Mobile
+477,Artificial intelligence,Turing
+896,Artificial intelligence,Lenskart
+797,Internet software & services,Kraken
+361,Fintech,Horizon Robotics
+250,"""Supply chain, logistics, & delivery""",MoonPay
+229,Artificial intelligence,Celsius Network
+540,Artificial intelligence,ChargeBee Technologies
+73,Cybersecurity,Coalition
+852,Auto & transportation,Commure
+78,Internet software & services,Flock Safety
+79,Health,Handshake
+632,Other,Highspot
+314,E-commerce & direct-to-consumer,Indigo Ag
+82,Fintech,Mirakl
+164,Data management & analytics,Rec Room
+85,Mobile & telecommunications,Tekion
+212,Other,Otto Bock HealthCare
+65,Cybersecurity,Outreach
+258,Auto & transportation,WeRide
+63,Artificial intelligence,Applied Intuition
+58,Internet software & services,Course Hero
+31,Artificial intelligence,Relativity
+248,Fintech,Whoop
+32,Internet software & services,Arctic Wolf Networks
+252,Mobile & telecommunications,GOAT
+33,Fintech,Noom
+287,E-commerce & direct-to-consumer,Papaya Global
+251,Artificial intelligence,Redwood Materials
+243,Artificial intelligence,ShareChat
+40,Auto & transportation,Sorare
+44,Fintech,VAST Data
+45,Data management & analytics,Articulate
+211,Health,Dutchie
+50,Internet software & services,FalconX
+53,Fintech,Guild Education
+285,Auto & transportation,Chainalysis
+217,Artificial intelligence,dbt Labs
+134,Fintech,Globalization Partners
+317,E-commerce & direct-to-consumer,Intarcia Therapeutics
+365,Auto & transportation,Relativity Space
+91,Fintech,StockX
+185,Artificial intelligence,ThoughtSpot
+121,E-commerce & direct-to-consumer,SSENSE
+335,Auto & transportation,BitPanda
+1014,Fintech,Dataminr
+191,Auto & transportation,Weee!
+334,"""Supply chain, logistics, & delivery""",Medlinker
+118,Internet software & services,Hozon Auto
+115,Artificial intelligence,Aurora Solar
+113,E-commerce & direct-to-consumer,Branch
+147,Hardware,BrowserStack
+136,Edtech,Cerebras Systems
+130,Internet software & services,ClickUp
+321,"""Supply chain, logistics, & delivery""",Clubhouse
+327,Fintech,Farmers Business Network
+641,Fintech,Houzz
+352,Travel,MEGVII
+972,Artificial intelligence,Melio
+201,Internet software & services,Next Insurance
+168,Health,Olive
+104,Health,Patreon
+171,Health,PointClickCare
+350,E-commerce & direct-to-consumer,Rubrik
+101,Health,Vuori
+239,Internet software & services,Webflow
+1065,Internet software & services,Yuga Labs
+938,Artificial intelligence,Zapier
+828,Internet software & services,Dadi Cinema
+941,Mobile & telecommunications,Kurly
+988,Hardware,Moglix
+484,Fintech,OpenAI
+864,Internet software & services,Upstox
+383,Internet software & services,Vista Global
+1060,Internet software & services,Yixia
+595,Consumer & retail,Automattic
+840,Fintech,OakNorth Bank
+290,Internet software & services,Worldcoin
+742,Fintech,Hive Box
+964,Health,Trax
+712,Mobile & telecommunications,MessageBird
+837,Fintech,Cohesity
+583,Internet software & services,Cybereason
+411,Hardware,A24 Films
+430,Internet software & services,Acronis
+875,Artificial intelligence,Aura
+810,Cybersecurity,BYTON
+805,"""Supply chain, logistics, & delivery""",Cato Networks
+953,Internet software & services,Digit Insurance
+606,Data management & analytics,Fetch Rewards
+679,"""Supply chain, logistics, & delivery""",Games24x7
+907,Cybersecurity,GoStudent
+880,Fintech,Immutable
+834,Fintech,Infra.Market
+542,Internet software & services,Side
+1043,Health,SiFive
+410,Data management & analytics,Somatus
+637,Artificial intelligence,Sysdig
+616,Internet software & services,Uniphore
+611,Health,Varo Bank
+1064,Fintech,Vercel
+1032,Artificial intelligence,Oura
+737,Internet software & services,Unacademy
+374,E-commerce & direct-to-consumer,Axonius
+172,Mobile & telecommunications,Clari
+414,Fintech,ManoMano
+845,Hardware,Pendo
+1055,Internet software & services,Plume
+416,Cybersecurity,JumpCloud
+682,Hardware,Project44
+967,Other,Sourcegraph
+551,Consumer & retail,OwnBackup
+491,Artificial intelligence,Starburst
+446,Fintech,Youxia Motors
+982,Cybersecurity,Zetwerk
+850,Mobile & telecommunications,Cars24
+928,Artificial intelligence,Ethos
+380,Mobile & telecommunications,Komodo Health
+451,Internet software & services,Nextiva
+987,Internet software & services,o9 Solutions
+842,Other,Scopely
+620,Edtech,Sila Nanotechnologies
+356,Fintech,Via
+872,E-commerce & direct-to-consumer,Transmit Security
+417,Internet software & services,BlockDaemon
+427,E-commerce & direct-to-consumer,Convoy
+255,Other,Dream Games
+397,Data management & analytics,Illumio
+857,Internet software & services,MasterClass
+588,Internet software & services,Graphcore
+1005,Data management & analytics,ApplyBoard
+609,Fintech,Blockstream
+619,Fintech,Cedar
+681,Cybersecurity,ContentSquare
+489,Internet software & services,Eruditus Executive Education
+626,"""Supply chain, logistics, & delivery""",Innovaccer
+649,Fintech,Ironclad
+234,Internet software & services,Skims
+770,Fintech,Thumbtack
+614,E-commerce & direct-to-consumer,Zipline
+482,Fintech,BharatPe
+968,E-commerce & direct-to-consumer,DriveWealth
+899,Health,Flink Food
+386,Consumer & retail,PsiQuantum
+665,Internet software & services,SpotOn
+1039,Artificial intelligence,Gorillas
+800,Data management & analytics,HighRadius
+457,Fintech,Loft
+676,Fintech,Nuvemshop
+1050,Artificial intelligence,Udaan
+694,Fintech,Workrise
+481,Data management & analytics,ActiveCampaign
+878,Artificial intelligence,Age of Learning
+995,Fintech,Amber Group
+1034,Artificial intelligence,Anchorage Digital
+855,Hardware,BlockFi
+345,Edtech,Calendly
+691,Internet software & services,Carbon Health
+860,Internet software & services,Circle
+511,Hardware,CMR Surgical
+704,Health,Contentful
+881,Other,Cross River Bank
+747,Internet software & services,Delhivery
+861,Fintech,FlixBus
+407,Internet software & services,Flutterwave
+858,Fintech,Forter
+749,Cybersecurity,Grafana Labs
+841,"""Supply chain, logistics, & delivery""",Groww
+282,Internet software & services,Inxeption
+1026,Fintech,KK Group
+630,Fintech,Lattice
+621,Fintech,LaunchDarkly
+847,E-commerce & direct-to-consumer,Lucid
+223,Internet software & services,Outschool
+1009,Other,Podium
+563,Hardware,Remote
+476,Artificial intelligence,Seismic
+970,Consumer & retail,Sky Mavis
+990,Fintech,SouChe Holdings
+728,Cybersecurity,TradingView
+415,Internet software & services,Traveloka
+956,Health,wefox
+418,Fintech,Wildlife Studios
+892,Data management & analytics,1047 Games
+991,Artificial intelligence,Baiwang
+1028,Internet software & services,Boba
+454,Health,Bought By Many
+400,Internet software & services,Cambridge Mobile Telematics
+1042,E-commerce & direct-to-consumer,Carzone
+753,Cybersecurity,CFGI
+911,Cybersecurity,Cgtz
+819,Internet software & services,Changingedu
+507,Health,eDaili
+910,Health,ENOVATE
+756,Internet software & services,Fenbi Education
+480,Internet software & services,Hesai Tech
+405,Internet software & services,Il Makiage
+683,E-commerce & direct-to-consumer,Iluvatar CoreX
+959,Fintech,Jusfoun Big Data
+954,Health,Pagaya
+203,Data management & analytics,PolicyBazaar
+170,Mobile & telecommunications,Promasidor Holdings
+698,Data management & analytics,Tubatu.com
+790,Internet software & services,Ximalaya FM
+962,Health,HEYTEA
+865,Cybersecurity,BGL Group
+461,Consumer & retail,Claroty
+670,Data management & analytics,Improbable
+529,Fintech,InMobi
+634,Edtech,MindMaze
+897,Cybersecurity,Ninja Van
+924,E-commerce & direct-to-consumer,Pantheon Systems
+768,Data management & analytics,SellerX
+707,Cybersecurity,AppDirect
+673,Health,BrewDog
+1049,Fintech,Enflame
+1017,"""Supply chain, logistics, & delivery""",Tradeshift
+856,Artificial intelligence,HeartFlow
+1007,Internet software & services,Extend
+462,Internet software & services,Airbyte
+832,Data management & analytics,Andela
+265,E-commerce & direct-to-consumer,Ascend Money
+485,Fintech,Athelas
+490,Other,Built
+723,E-commerce & direct-to-consumer,candy.com
+913,Artificial intelligence,Cognite
+534,Fintech,CoinList
+494,Internet software & services,Collective Health
+849,Internet software & services,Culture Amp
+908,Other,Devo
+264,Fintech,ElasticRun
+550,Fintech,Gett
+778,Internet software & services,ID.me
+624,"""Supply chain, logistics, & delivery""",impact.com
+958,Cybersecurity,Ledger
+440,Fintech,Lusha
+921,Mobile & telecommunications,Matillion
+926,Internet software & services,MOLOCO
+584,Other,Mu Sigma
+980,Fintech,Next Silicon
+468,Hardware,NotCo
+709,Artificial intelligence,Olist
+138,Fintech,Pacaso
+719,Other,Paradox
+505,E-commerce & direct-to-consumer,Persona
+811,E-commerce & direct-to-consumer,SmartRecruiters
+395,Internet software & services,Snapdocs
+746,Data management & analytics,Solugen
+1052,Edtech,StoreDot
+806,Fintech,Strava
+873,Artificial intelligence,Temporal
+966,Artificial intelligence,TuJia
+545,Mobile & telecommunications,Uplight
+912,"""Supply chain, logistics, & delivery""",Veho
+187,Internet software & services,Veriff
+47,Fintech,Whatnot
+868,Artificial intelligence,Zenoti
+671,E-commerce & direct-to-consumer,Zeta
+521,Health,Loom
+591,Health,Mobile Premier League
+593,Health,Uala
+84,Fintech,Wenheyou
+459,Health,Star Charge
+514,Mobile & telecommunications,ABL Space Systems
+425,"""Supply chain, logistics, & delivery""",Afiniti
+561,Internet software & services,ASAPP
+303,Fintech,BitSight Technologies
+914,Internet software & services,Cao Cao Mobility
+957,Hardware,Capitolis
+368,E-commerce & direct-to-consumer,Carbon
+204,Edtech,Clio
+14,Fintech,Cresta
+1010,"""Supply chain, logistics, & delivery""",Exabeam
+10,Fintech,ezCater
+220,Auto & transportation,HomeLight
+615,Auto & transportation,HoneyBook
+6,Fintech,Infinidat
+3,Fintech,Mercury
+34,E-commerce & direct-to-consumer,Paxos
+12,Fintech,SafetyCulture
+657,Auto & transportation,SmartHR
+169,Fintech,Tonal
+2,E-commerce & direct-to-consumer,Truepill
+26,Health,Unite Us
+93,E-commerce & direct-to-consumer,Verkada
+176,Artificial intelligence,Wayflyer
+86,Consumer & retail,Zhubajie
+66,E-commerce & direct-to-consumer,Transcarent
+64,Auto & transportation,Trader Interactive
+62,Travel,Glossier
+60,Other,Hibob
+71,Internet software & services,Jobandtalent
+640,E-commerce & direct-to-consumer,Optimism
+56,"""Supply chain, logistics, & delivery""",solarisBank
+76,Cybersecurity,WEMAKEPRICE
+83,"""Supply chain, logistics, & delivery""",Alan
+149,"""Supply chain, logistics, & delivery""",Biren Technology
+67,Fintech,Voodoo
+155,Fintech,Carsome
+103,Consumer & retail,CircleCI
+523,Artificial intelligence,DealShare
+789,Artificial intelligence,DispatchHealth
+961,Mobile & telecommunications,Dragos
+854,Internet software & services,Gousto
+554,Data management & analytics,H2O.ai
+522,Fintech,Harness
+935,Edtech,Harry's
+552,Fintech,PAX
+687,Mobile & telecommunications,Productboard
+815,Internet software & services,Reltio
+895,Fintech,Spotter
+510,Artificial intelligence,Vestiaire Collective
+531,Artificial intelligence,Wave
+949,Edtech,ZenBusiness
+833,Internet software & services,Bowery Farming
+650,Internet software & services,Greenlight
+1057,Internet software & services,KeepTruckin
+785,Fintech,Odoo
+408,Data management & analytics,Skydance Media
+1015,E-commerce & direct-to-consumer,Uptake
+642,Mobile & telecommunications,MoMo
+617,Artificial intelligence,Algolia
+779,E-commerce & direct-to-consumer,Pattern
+475,"""Supply chain, logistics, & delivery""",Spinny
+349,Internet software & services,Trulioo
+272,Internet software & services,Zume
+708,Fintech,AIWAYS
+916,Fintech,Bitso
+289,Health,BloomReach
+675,Fintech,Current
+266,Internet software & services,Dialpad
+784,Health,G7 Networks
+471,Internet software & services,Gympass
+622,Edtech,MUSINSA
+574,Internet software & services,NuCom Group
+766,Artificial intelligence,Reify Health
+693,Edtech,Diamond Foundry
+390,Fintech,FullStory
+413,E-commerce & direct-to-consumer,Lightricks
+684,Fintech,Opentrons
+801,Health,ZocDoc
+748,Other,Accelerant
+206,Fintech,Huaqin Telecom Technology
+752,Internet software & services,Addepar
+820,Hardware,YITU Technology
+965,Internet software & services,CloudWalk
+448,Hardware,Retool
+902,Internet software & services,Volocopter
+1036,Fintech,Acorns
+304,Fintech,Aledade
+325,Fintech,CoinSwitch Kuber
+1019,Artificial intelligence,ConcertAI
+690,Health,Eightfold.ai
+636,Auto & transportation,FirstCry
+342,Internet software & services,Forto
+343,Internet software & services,GoCardless
+933,Mobile & telecommunications,InVision
+1011,Cybersecurity,Jeeves
+1062,E-commerce & direct-to-consumer,Medable
+428,Internet software & services,Moveworks
+1021,"""Supply chain, logistics, & delivery""",MX Technologies
+332,Internet software & services,PayFit
+950,Consumer & retail,ReCharge
+54,Internet software & services,Roofstock
+308,Internet software & services,Urban Company
+493,Internet software & services,Rokt
+237,Internet software & services,Starling Bank
+730,Fintech,Ankorstore
+741,"""Supply chain, logistics, & delivery""",4Paradigm
+960,E-commerce & direct-to-consumer,Advance Intelligence Group
+1038,E-commerce & direct-to-consumer,Aiven
+780,E-commerce & direct-to-consumer,Akulaku
+774,Other,Apeel Sciences
+936,Fintech,AppsFlyer
+351,Fintech,Avant
+602,Fintech,Aviatrix
+802,Fintech,BlaBlaCar
+794,Consumer & retail,Black Sesame Technologies
+381,Health,Bunq
+1025,"""Supply chain, logistics, & delivery""",Calm
+831,"""Supply chain, logistics, & delivery""",Chipper Cash
+429,Fintech,Clearco
+547,Internet software & services,ClickHouse
+568,Internet software & services,Clip
+57,Internet software & services,Cloudinary
+628,Other,Deliverr
+517,Fintech,Divvy Homes
+777,E-commerce & direct-to-consumer,Dremio
+827,Data management & analytics,Druva
+786,Data management & analytics,Everlaw
+528,Internet software & services,Exotec
+210,Internet software & services,Formlabs
+917,"""Supply chain, logistics, & delivery""",Guoquan Shihui
+328,Internet software & services,Hive
+508,Other,HuiMin
+192,Data management & analytics,ISN
+994,Internet software & services,Iterable
+877,"""Supply chain, logistics, & delivery""",Kajabi
+646,Artificial intelligence,Kaseya
+589,Data management & analytics,Keep
+278,Internet software & services,KRY
+474,Cybersecurity,Loggi
+918,"""Supply chain, logistics, & delivery""",LTK
+323,Internet software & services,Lunar
+729,Artificial intelligence,Mafengwo
+835,Mobile & telecommunications,Magic Leap
+680,Auto & transportation,Misfits Market
+927,Artificial intelligence,Modern Treasury
+467,Fintech,MURAL
+535,Fintech,Mynt
+773,Internet software & services,Neo4j
+596,Fintech,Netlify
+267,Hardware,OCSiAl
+208,Fintech,Opay
+702,E-commerce & direct-to-consumer,Pipe
+648,Mobile & telecommunications,Preferred Networks
+1003,Fintech,Quora
+412,Artificial intelligence,Redis Labs
+558,Fintech,SmartNews
+1029,Internet software & services,Spring Health
+158,Artificial intelligence,StarkWare
+536,E-commerce & direct-to-consumer,SWORD Health
+598,Health,Tier
+512,Health,Trendy Group International
+39,Auto & transportation,Unqork
+1037,Mobile & telecommunications,VerbIT
+431,Internet software & services,Virta Health
+739,Fintech,Xinchao Media
+499,Fintech,Xingyun Group
+207,Internet software & services,XtalPi
+1069,E-commerce & direct-to-consumer,Zilch
+307,Health,56PINGTAI
+437,Artificial intelligence,Alzheon
+787,"""Supply chain, logistics, & delivery""",Aprogen
+392,Internet software & services,Axtria
+182,Hardware,Cell C
+401,Data management & analytics,China Cloud
+555,Fintech,CredAvenue
+713,Internet software & services,DeepBlue Technology
+772,E-commerce & direct-to-consumer,dMed Biopharmaceutical
+700,Internet software & services,Einride
+442,Internet software & services,EQRx
+663,Internet software & services,Everly Health
+1068,Edtech,Fair
+722,Fintech,Flipboard
+444,Cybersecurity,Globality
+888,"""Supply chain, logistics, & delivery""",Hosjoy
+366,Edtech,Huisuanzhang
+915,Health,HuJiang
+339,Fintech,Hyperchain
+656,Other,iTutorGroup
+659,Auto & transportation,JimuBox
+631,Health,Juma Peisong
+275,Cybersecurity,Justworks
+807,Fintech,Keenon Robotics
+985,Travel,Kuaigou Dache
+466,E-commerce & direct-to-consumer,LifeMiles
+524,Internet software & services,LinkSure Network
+296,Fintech,MobiKwik
+735,"""Supply chain, logistics, & delivery""",Modernizing Medicine
+309,E-commerce & direct-to-consumer,OVH
+577,Hardware,Phenom People
+23,E-commerce & direct-to-consumer,Pipa Coding
+105,Auto & transportation,Qingting FM
+9,Data management & analytics,Rad Power Bikes
+46,Edtech,Shukun Technology
+7,"""Supply chain, logistics, & delivery""",Shulan Health
+48,Travel,SITECH DEV
+502,Internet software & services,Snapdeal
+28,Internet software & services,SumUp
+516,Artificial intelligence,TalkingData
+438,Cybersecurity,TUNGEE
+501,Fintech,UISEE Technology
+473,Health,Valgen Medtech
+465,Fintech,Vectra Networks
+1044,Fintech,Venafi
+818,Fintech,Wacai
+195,E-commerce & direct-to-consumer,WeBull
+125,Fintech,WTOIP
+885,Fintech,Xiaobing
+689,Auto & transportation,Xiaoe Tech
+288,Fintech,Yiguo
+280,Data management & analytics,Yimidida
+843,Auto & transportation,Yipin Shengxian
+256,Cybersecurity,Ynsect
+582,Data management & analytics,Hello TransTech
+745,Travel,Miaoshou Doctor
+559,Data management & analytics,ECARX
+590,Mobile & telecommunications,Eat Just
+124,Internet software & services,Trumid
+233,Internet software & services,Qualia
+209,Data management & analytics,Beisen
+284,Data management & analytics,Earnix
+119,Internet software & services,Kujiale
+1016,Fintech,Orca Security
+291,Artificial intelligence,Apus Group
+371,Fintech,Forte Labs
+488,"""Supply chain, logistics, & delivery""",CureFit
+245,Other,DT Dream
+435,Other,fabric
+346,Internet software & services,JOLLY Information Technology
+445,"""Supply chain, logistics, & delivery""",K Health
+539,E-commerce & direct-to-consumer,Mofang Living
+500,Artificial intelligence,Spendesk
+497,Consumer & retail,TaxBit
+99,Fintech,XiaoZhu
+981,Internet software & services,Yijiupi
+159,Mobile & telecommunications,YunQuNa
+150,Artificial intelligence,Bordrin Motors
+710,Fintech,Aleo
+348,Internet software & services,Coocaa
+27,E-commerce & direct-to-consumer,Gymshark
+776,E-commerce & direct-to-consumer,M1 Finance
+145,Fintech,Ouyeel
+775,E-commerce & direct-to-consumer,SonderMind
+385,E-commerce & direct-to-consumer,Astranis Space Technologies
+597,Artificial intelligence,Away
+685,Internet software & services,Cabify
+112,Internet software & services,Clarify Health
+829,E-commerce & direct-to-consumer,Coda
+553,Fintech,Deezer
+492,Fintech,Degreed
+183,Internet software & services,Deliverect
+188,Internet software & services,Envoy
+402,"""Supply chain, logistics, & delivery""",Epidemic Sound
+419,Other,Figment
+715,Internet software & services,Firebolt
+543,E-commerce & direct-to-consumer,Five Star Business Finance
+923,Hardware,GupShup
+638,Health,Kong
+660,Consumer & retail,Koudai
+199,Internet software & services,Panther Labs
+525,E-commerce & direct-to-consumer,Papa
+458,Internet software & services,Pristyn Care
+236,E-commerce & direct-to-consumer,Rebel Foods
+90,Internet software & services,Salt Security
+108,Fintech,Scalable Capital
+575,Fintech,SparkCognition
+767,E-commerce & direct-to-consumer,Stash
+984,Health,Symphony
+548,Auto & transportation,Tripledot
+238,Fintech,VideoAmp
+532,Fintech,Yidian Zixun
+562,Hardware,Yotpo
+453,E-commerce & direct-to-consumer,Neon
+699,Other,Veepee
+557,"""Supply chain, logistics, & delivery""",Alloy
+808,Fintech,Epirus
+759,Other,Klook
+357,Fintech,Yaoshibang
+922,Fintech,Signifyd
+905,Fintech,Motorway
+300,Edtech,RIDI
+151,Health,Athletic Greens
+976,Other,GPclub
+268,Health,Grove Collaborative
+406,Hardware,Tongdun Technology
+298,Mobile & telecommunications,Unisound
+179,Fintech,Betterment
+242,E-commerce & direct-to-consumer,Cava Group
+387,Hardware,CoinTracker
+496,Cybersecurity,DistroKid
+336,Fintech,Domestika
+727,E-commerce & direct-to-consumer,Flock Freight
+560,Data management & analytics,InSightec
+318,Fintech,Island
+581,Fintech,iTrustCapital
+18,Internet software & services,Konfio
+193,Edtech,LinkTree
+358,Fintech,Loadsmart
+757,"""Supply chain, logistics, & delivery""",Lukka
+302,Edtech,Manner
+311,"""Supply chain, logistics, & delivery""",The Brandtech Group
+1013,Consumer & retail,TravelPerk
+537,Internet software & services,YugaByte
+326,Fintech,Intercom
+190,Internet software & services,OVO Energy
+955,E-commerce & direct-to-consumer,BigID
+24,Fintech,CaptivateIQ
+133,Hardware,Flipdish
+1067,Internet software & services,Honor Technology
+197,E-commerce & direct-to-consumer,Incode Technologies
+213,E-commerce & direct-to-consumer,Kuaikan Manhua
+533,Fintech,Marshmallow
+721,Health,Mythical Games
+276,Internet software & services,Route
+347,Fintech,Tackle.io
+59,Internet software & services,Nexii
+486,Other,GalaxySpace
+142,Health,Insider
+447,Internet software & services,Spiber
+196,Cybersecurity,Ada Support
+52,E-commerce & direct-to-consumer,AgentSync
+15,Edtech,Alation
+13,E-commerce & direct-to-consumer,BigPanda
+19,Edtech,CarDekho
+30,Other,Copado
+89,Auto & transportation,DailyPay
+166,Auto & transportation,FloQast
+29,Artificial intelligence,Gem
+4,Fintech,GrubMarket
+324,Edtech,Helium Systems
+257,Cybersecurity,Inari
+165,Health,Jokr
+359,Mobile & telecommunications,LivSpace
+576,Travel,Merama
+230,Fintech,MindTickle
+948,"""Supply chain, logistics, & delivery""",MyGlamm
+180,Cybersecurity,Oda
+573,"""Supply chain, logistics, & delivery""",Offchain Labs
+530,Internet software & services,Phantom
+283,Data management & analytics,Pilot.com
+520,Fintech,Prime Medicine
+495,E-commerce & direct-to-consumer,Public
+696,Internet software & services,Qumulo
+711,Fintech,Rohlik
+678,Consumer & retail,SeekOut
+132,Artificial intelligence,SmartMore
+986,Internet software & services,Tealium
+1056,Travel,UpGrad
+469,Other,Workhuman
+566,E-commerce & direct-to-consumer,Xpressbees
+1047,Fintech,L&P Cosmetic
+992,Internet software & services,Mininglamp Technology
+762,Other,Luoji Siwei
+706,E-commerce & direct-to-consumer,IRL
+221,Internet software & services,Modern Health
+564,Consumer & retail,Tuhu
+329,Health,CloudBees
+608,Hardware,Elemy
+116,Internet software & services,Guideline
+859,Health,Happy Money
+504,Internet software & services,Rebellion Defense
+337,Cybersecurity,STORD
+879,Cybersecurity,At-Bay
+578,E-commerce & direct-to-consumer,TELD
+527,Fintech,Acko General Insurance
+629,Mobile & telecommunications,apna
+260,Fintech,Beyond Identity
+692,Internet software & services,Carousell
+259,Cybersecurity,Chief
+867,"""Supply chain, logistics, & delivery""",CoinDCX
+338,Internet software & services,Daily Harvest
+225,Internet software & services,Enpal
+362,Fintech,eSentire
+541,Artificial intelligence,Firefly Aerospace
+883,Fintech,Fundbox
+450,Fintech,G2
+838,Internet software & services,Gaussian Robotics
+181,Internet software & services,GetYourGuide
+479,Consumer & retail,GlobalBees
+286,Internet software & services,Ivalua
+432,Fintech,Juanpi
+570,Cybersecurity,Karat
+1020,Artificial intelligence,LEAD School
+216,Fintech,Nexthink
+607,Mobile & telecommunications,People.ai
+900,E-commerce & direct-to-consumer,Pharmapacks
+77,Fintech,Rightway
+244,Fintech,Sennder
+569,Internet software & services,Sisense
+506,Other,Staffbase
+313,Fintech,Sunbit
+235,Data management & analytics,TangoMe
+654,"""Supply chain, logistics, & delivery""",The Bank of London
+177,Fintech,Zego
+373,Consumer & retail,Nxin
+487,Fintech,Mamaearth
+42,Consumer & retail,Radius Payment Solutions
+299,Cybersecurity,Rivigo
+141,Internet software & services,Rubicon
+137,E-commerce & direct-to-consumer,Socar
+51,Fintech,MobileCoin
+586,Fintech,Density
+144,Internet software & services,Instabase
+389,Health,Jiuxian
+572,Health,Matrixport
+585,Fintech,Mixpanel
+887,Health,Sendbird
+5,Internet software & services,OrCam Technologies
+677,Travel,Leap Motor
+49,Internet software & services,1KMXC
+793,"""Supply chain, logistics, & delivery""",58 Daojia
+470,E-commerce & direct-to-consumer,Agile Robots
+261,E-commerce & direct-to-consumer,Aibee
+295,Cybersecurity,Aircall
+95,Artificial intelligence,Ajaib
+1053,Internet software & services,Alto Pharmacy
+594,Travel,Amagi
+120,Fintech,Amount
+974,Mobile & telecommunications,Amperity
+306,Edtech,Anyscale
+939,"""Supply chain, logistics, & delivery""",Aptos
+526,"""Supply chain, logistics, & delivery""",Aqua Security
+754,Internet software & services,Assembly
+376,Other,Assent
+889,E-commerce & direct-to-consumer,Augury
+148,Data management & analytics,Axelar
+157,Travel,Axiom Space
+519,Auto & transportation,Banma Network Technologies
+41,"""Supply chain, logistics, & delivery""",BeiBei
+43,Hardware,BenevolentAI
+16,"""Supply chain, logistics, & delivery""",Berlin Brands Group
+38,E-commerce & direct-to-consumer,Betterfly
+312,Fintech,BitFury
+940,Other,BlackBuck
+127,Cybersecurity,Bluecore
+94,Artificial intelligence,BlueVoyant
+205,E-commerce & direct-to-consumer,bolttech
+270,Artificial intelligence,Boom Supersonic
+75,Fintech,Bringg
+993,Consumer & retail,C2FO
+744,Other,Cadence
+341,E-commerce & direct-to-consumer,CAIS
+472,E-commerce & direct-to-consumer,Cameo
+571,Mobile & telecommunications,Capsule
+228,E-commerce & direct-to-consumer,CargoX
+1073,E-commerce & direct-to-consumer,Carro
+1040,Hardware,Carson Group
+460,Other,CHEQ
+316,Fintech,Chronosphere
+320,E-commerce & direct-to-consumer,Cider
+107,Fintech,Clara
+605,Health,Clearcover
+1006,Edtech,CommerceIQ
+666,Cybersecurity,Contrast Security
+736,Health,Darwinbox
+156,Data management & analytics,Dental Monitoring
+372,Fintech,DianRong
+544,Other,Drata
+378,Cybersecurity,DriveNets
+184,Internet software & services,Dune Analytics
+135,Cybersecurity,Dxy.cn
+102,Other,EBANX
+143,Internet software & services,EcoFlow
+869,Internet software & services,Electric
+674,E-commerce & direct-to-consumer,Emerging Markets Property Group
+627,"""Supply chain, logistics, & delivery""",Esusu
+977,E-commerce & direct-to-consumer,Evidation
+167,Fintech,Expel
+821,Travel,Fabric
+198,Health,Feedzai
+655,E-commerce & direct-to-consumer,Fever Labs
+546,Artificial intelligence,Fiture
+661,Fintech,FLASH
+80,Fintech,Flash Express
+253,Data management & analytics,FlashEx
+100,Fintech,Fractal Analytics
+483,E-commerce & direct-to-consumer,Freshbooks
+214,Internet software & services,FXiaoKe
+669,Health,Gauntlet Networks
+315,Hardware,Geek+
+297,"""Supply chain, logistics, & delivery""",Gelato
+222,Mobile & telecommunications,Glia
+515,Fintech,GO1
+68,Internet software & services,Groq
+726,Other,Hailo
+904,Health,Haomao.AI
+441,Hardware,Hasura
+301,Artificial intelligence,HAYDON
+919,Data management & analytics,Heyday
+263,Edtech,HMD Global
+140,Artificial intelligence,Hotmart
+55,Fintech,Huike Group
+377,Fintech,Human Interest
+871,Auto & transportation,Ibotta
+310,E-commerce & direct-to-consumer,iCarbonX
+613,Health,iFood
+163,Fintech,InFarm
+277,E-commerce & direct-to-consumer,Infobip
+1059,Internet software & services,Injective Protocol
+503,"""Supply chain, logistics, & delivery""",Intellifusion
+330,Fintech,Interos
+254,Cybersecurity,Iodine Software
+367,Artificial intelligence,JoyTunes
+399,Fintech,Kendra Scott
+61,Fintech,Kitopi
+375,Mobile & telecommunications,KnowBox
+716,Fintech,Kopi Kenangan
+224,Hardware,Lamabang
+22,Consumer & retail,LayerZero Labs
+720,Travel,Lessen
+322,Internet software & services,LetsGetChecked
+279,Internet software & services,Licious
+111,Data management & analytics,LinkDoc Technology
+126,Fintech,Locus Robotics
+269,Cybersecurity,Lookout
+25,Fintech,Lydia
+160,E-commerce & direct-to-consumer,MadeiraMadeira
+731,Other,Maimai
+202,E-commerce & direct-to-consumer,Mammoth Biosciences
+74,Fintech,Masterworks
+439,Auto & transportation,Maven Clinic
+379,Other,MediaMath
+154,E-commerce & direct-to-consumer,Meero
+423,Travel,Mensa Brands
+262,Internet software & services,Mia.com
+219,Health,Minio
+161,Auto & transportation,Mobvoi
+36,Hardware,Moka
+384,E-commerce & direct-to-consumer,Momenta
+599,Internet software & services,Morning Consult
+20,Fintech,Movile
+241,"""Supply chain, logistics, & delivery""",Mux
+69,Mobile & telecommunications,Nature's Fynd
+333,Fintech,Newlink Group
+246,Mobile & telecommunications,News Break
+70,Cybersecurity,Newsela
+174,E-commerce & direct-to-consumer,NIUM
+294,Auto & transportation,NoBroker
+601,Artificial intelligence,Noname Security
+795,Artificial intelligence,Numbrs
+319,E-commerce & direct-to-consumer,Omada Health
+274,Edtech,Omio
+538,Fintech,ONE
+478,Consumer & retail,OpenWeb
+1072,Fintech,Orbbec Technology
+200,Other,Orca Bio
+498,Auto & transportation,Orchard
+35,Health,Owkin
+903,Data management & analytics,PandaDoc
+610,Artificial intelligence,Pat McGrath Labs
+11,Other,PatSnap
+1,Other,Payhawk
+932,E-commerce & direct-to-consumer,Pentera
+653,"""Supply chain, logistics, & delivery""",Pet Circle
+874,E-commerce & direct-to-consumer,PicsArt
+37,Internet software & services,PLACE
+106,Fintech,Placer.ai
+117,"""Supply chain, logistics, & delivery""",Playco
+1071,Consumer & retail,Poizon
+305,Internet software & services,PPRO
+110,Health,Printful
+281,"""Supply chain, logistics, & delivery""",Quantum Metric
+81,Health,Quizlet
+152,Fintech,RapidAPI
+122,Health,Razor
+403,Auto & transportation,Red Ventures
+92,Fintech,REEF Technology
+98,Artificial intelligence,ReliaQuest
+232,Internet software & services,Revolution Precrafted
+247,Internet software & services,Rothy's
+388,Fintech,SaltPay
+88,Mobile & telecommunications,Savage X Fenty
+218,"""Supply chain, logistics, & delivery""",Scalapay
+178,Fintech,Scandit
+128,Internet software & services,Sentry
+851,Artificial intelligence,Shield AI
+853,Hardware,Shift Technology
+227,Other,ShipBob
+1061,Fintech,Shippo
+799,Auto & transportation,Sidecar Health
+293,Other,Sift
+231,Fintech,Skydio
+114,Health,Slice
+0,Artificial intelligence,SmartAsset
+463,Internet software & services,SMS Assist
+162,Fintech,SnapLogic
+433,Other,Snorkel AI
+836,Fintech,Solo.io
+668,Fintech,SoundHound
+123,Health,Splashtop
+96,Travel,Standard
+17,E-commerce & direct-to-consumer,Stytch
+353,Fintech,Swile
+973,Internet software & services,Tarana Wireless
+97,Cybersecurity,TechStyle Fashion Group
+87,Fintech,TensTorrent
+153,Internet software & services,TERMINUS Technology
+109,Fintech,Tezign
+946,Edtech,The Zebra
+937,Fintech,Thirty Madison
+139,Hardware,Thought Machine
+131,Hardware,Timescale
+360,E-commerce & direct-to-consumer,Tractable
+658,E-commerce & direct-to-consumer,Tresata
+186,E-commerce & direct-to-consumer,TrialSpark
+604,Health,TrueLayer
+600,E-commerce & direct-to-consumer,Unico
+672,E-commerce & direct-to-consumer,Vagaro
+518,Internet software & services,Vedantu
+331,Health,Veev
+382,"""Supply chain, logistics, & delivery""",Vise
+21,Internet software & services,Visier
+271,Fintech,VOI
+664,Fintech,Vox Media
+1070,E-commerce & direct-to-consumer,VTS
+146,Fintech,Watershed
+292,Mobile & telecommunications,Weights & Biases
+792,Internet software & services,WeLab
+639,Other,Womai
+567,"""Supply chain, logistics, & delivery""",Wrapbook
+945,Data management & analytics,Xendit
+947,Consumer & retail,XForcePlus
+717,E-commerce & direct-to-consumer,YH Global
+424,Other,YipitData
+733,Internet software & services,Yunxuetang
+1002,Mobile & telecommunications,Zhaogang
+215,E-commerce & direct-to-consumer,Zhuan Zhuan
+866,Internet software & services,Zihaiguo
+651,Fintech,Zopa
+890,Fintech,Zwift
