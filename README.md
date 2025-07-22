@@ -1,6 +1,6 @@
 # 🦄 Unicorn Companies Analysis Project
 
-![unicorn-company-logo](https://github.com/user-attachments/assets/4e93b91d-d8b8-478b-94d0-5e2e8995ca80)
+![unicorn_company_600px](https://github.com/user-attachments/assets/1e8c8f89-f258-4bc8-95c0-400bbad2d5ed)
 
 
 ### This project is a data-driven visualization project that explores the landscape of unicorn startups across the globe. This dashboard highlights trends, valuations, industries, and investor insights for companies valued at $1 billion or more.
